@@ -1,0 +1,6 @@
+{
+  "model_name": "SimpleDenseNetLike",
+  "best_global_val_acc": 0.9719789842381786,
+  "communication_rounds": 100,
+  "num_clients": 10
+}

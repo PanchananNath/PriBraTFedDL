@@ -1,0 +1,2101 @@
+Round 1/100 | Avg Client Train Loss: 0.8639 Avg Client Train Acc: 0.6548 | Global Val Loss: 1.0986 Global Val Acc: 0.4781 | Time: 110.9s
+
+--- Communication Round 2/100 ---
+Selected 5 clients for this round.
+Round 2/100 | Avg Client Train Loss: 0.7452 Avg Client Train Acc: 0.6982 | Global Val Loss: 0.7313 Global Val Acc: 0.7215 | Time: 109.0s
+
+--- Communication Round 3/100 ---
+Selected 5 clients for this round.
+Round 3/100 | Avg Client Train Loss: 0.6795 Avg Client Train Acc: 0.7261 | Global Val Loss: 0.8001 Global Val Acc: 0.6918 | Time: 109.1s
+
+--- Communication Round 4/100 ---
+Selected 5 clients for this round.
+Round 4/100 | Avg Client Train Loss: 0.6285 Avg Client Train Acc: 0.7507 | Global Val Loss: 0.7435 Global Val Acc: 0.7058 | Time: 109.9s
+
+--- Communication Round 5/100 ---
+Selected 5 clients for this round.
+Round 5/100 | Avg Client Train Loss: 0.5941 Avg Client Train Acc: 0.7686 | Global Val Loss: 0.5058 Global Val Acc: 0.8074 | Time: 101.3s
+
+--- Communication Round 6/100 ---
+Selected 5 clients for this round.
+Round 6/100 | Avg Client Train Loss: 0.5749 Avg Client Train Acc: 0.7733 | Global Val Loss: 0.5003 Global Val Acc: 0.8144 | Time: 106.0s
+
+--- Communication Round 7/100 ---
+Selected 5 clients for this round.
+Round 7/100 | Avg Client Train Loss: 0.5457 Avg Client Train Acc: 0.7910 | Global Val Loss: 0.5178 Global Val Acc: 0.7811 | Time: 114.8s
+
+--- Communication Round 8/100 ---
+Selected 5 clients for this round.
+Round 8/100 | Avg Client Train Loss: 0.5146 Avg Client Train Acc: 0.8028 | Global Val Loss: 0.3724 Global Val Acc: 0.8651 | Time: 123.0s
+
+--- Communication Round 9/100 ---
+Selected 5 clients for this round.
+Round 9/100 | Avg Client Train Loss: 0.5096 Avg Client Train Acc: 0.8039 | Global Val Loss: 0.4392 Global Val Acc: 0.8196 | Time: 135.6s
+
+--- Communication Round 10/100 ---
+Selected 5 clients for this round.
+Round 10/100 | Avg Client Train Loss: 0.4791 Avg Client Train Acc: 0.8199 | Global Val Loss: 0.4052 Global Val Acc: 0.8529 | Time: 122.1s
+
+--- Communication Round 11/100 ---
+Selected 5 clients for this round.
+Round 11/100 | Avg Client Train Loss: 0.4797 Avg Client Train Acc: 0.8160 | Global Val Loss: 0.3881 Global Val Acc: 0.8529 | Time: 130.8s
+
+--- Communication Round 12/100 ---
+Selected 5 clients for this round.
+Round 12/100 | Avg Client Train Loss: 0.4441 Avg Client Train Acc: 0.8332 | Global Val Loss: 0.3750 Global Val Acc: 0.8546 | Time: 126.1s
+
+--- Communication Round 13/100 ---
+Selected 5 clients for this round.
+Round 13/100 | Avg Client Train Loss: 0.4552 Avg Client Train Acc: 0.8259 | Global Val Loss: 0.3522 Global Val Acc: 0.8827 | Time: 117.1s
+
+--- Communication Round 14/100 ---
+Selected 5 clients for this round.
+Round 14/100 | Avg Client Train Loss: 0.4372 Avg Client Train Acc: 0.8327 | Global Val Loss: 0.4557 Global Val Acc: 0.8161 | Time: 126.6s
+
+--- Communication Round 15/100 ---
+Selected 5 clients for this round.
+Round 15/100 | Avg Client Train Loss: 0.4386 Avg Client Train Acc: 0.8357 | Global Val Loss: 0.4090 Global Val Acc: 0.8336 | Time: 132.5s
+
+--- Communication Round 16/100 ---
+Selected 5 clients for this round.
+Round 16/100 | Avg Client Train Loss: 0.4379 Avg Client Train Acc: 0.8375 | Global Val Loss: 0.3652 Global Val Acc: 0.8669 | Time: 119.2s
+
+--- Communication Round 17/100 ---
+Selected 5 clients for this round.
+Round 17/100 | Avg Client Train Loss: 0.4114 Avg Client Train Acc: 0.8447 | Global Val Loss: 0.3177 Global Val Acc: 0.8827 | Time: 123.9s
+
+--- Communication Round 18/100 ---
+Selected 5 clients for this round.
+Round 18/100 | Avg Client Train Loss: 0.4024 Avg Client Train Acc: 0.8486 | Global Val Loss: 0.3554 Global Val Acc: 0.8704 | Time: 119.9s
+
+--- Communication Round 19/100 ---
+Selected 5 clients for this round.
+Round 19/100 | Avg Client Train Loss: 0.3985 Avg Client Train Acc: 0.8498 | Global Val Loss: 0.3232 Global Val Acc: 0.8792 | Time: 123.2s
+
+--- Communication Round 20/100 ---
+Selected 5 clients for this round.
+Round 20/100 | Avg Client Train Loss: 0.4028 Avg Client Train Acc: 0.8491 | Global Val Loss: 0.3475 Global Val Acc: 0.8704 | Time: 127.7s
+
+--- Communication Round 21/100 ---
+Selected 5 clients for this round.
+Round 21/100 | Avg Client Train Loss: 0.4068 Avg Client Train Acc: 0.8478 | Global Val Loss: 0.2991 Global Val Acc: 0.8949 | Time: 130.9s
+
+--- Communication Round 22/100 ---
+Selected 5 clients for this round.
+Round 22/100 | Avg Client Train Loss: 0.3833 Avg Client Train Acc: 0.8564 | Global Val Loss: 0.3376 Global Val Acc: 0.8669 | Time: 130.2s
+
+--- Communication Round 23/100 ---
+Selected 5 clients for this round.
+Round 23/100 | Avg Client Train Loss: 0.3797 Avg Client Train Acc: 0.8557 | Global Val Loss: 0.3143 Global Val Acc: 0.8739 | Time: 136.5s
+
+--- Communication Round 24/100 ---
+Selected 5 clients for this round.
+Round 24/100 | Avg Client Train Loss: 0.3757 Avg Client Train Acc: 0.8595 | Global Val Loss: 0.3285 Global Val Acc: 0.8827 | Time: 125.4s
+
+--- Communication Round 25/100 ---
+Selected 5 clients for this round.
+Round 25/100 | Avg Client Train Loss: 0.3710 Avg Client Train Acc: 0.8604 | Global Val Loss: 0.2831 Global Val Acc: 0.8949 | Time: 119.6s
+
+--- Communication Round 26/100 ---
+Selected 5 clients for this round.
+Round 26/100 | Avg Client Train Loss: 0.3626 Avg Client Train Acc: 0.8674 | Global Val Loss: 0.2679 Global Val Acc: 0.8984 | Time: 120.5s
+
+--- Communication Round 27/100 ---
+Selected 5 clients for this round.
+Round 27/100 | Avg Client Train Loss: 0.3675 Avg Client Train Acc: 0.8646 | Global Val Loss: 0.2934 Global Val Acc: 0.8984 | Time: 121.4s
+
+--- Communication Round 28/100 ---
+Selected 5 clients for this round.
+Round 28/100 | Avg Client Train Loss: 0.3654 Avg Client Train Acc: 0.8648 | Global Val Loss: 0.2863 Global Val Acc: 0.8949 | Time: 128.0s
+
+--- Communication Round 29/100 ---
+Selected 5 clients for this round.
+Round 29/100 | Avg Client Train Loss: 0.3553 Avg Client Train Acc: 0.8682 | Global Val Loss: 0.2993 Global Val Acc: 0.8984 | Time: 133.0s
+
+--- Communication Round 30/100 ---
+Selected 5 clients for this round.
+Round 30/100 | Avg Client Train Loss: 0.3438 Avg Client Train Acc: 0.8721 | Global Val Loss: 0.2721 Global Val Acc: 0.8914 | Time: 129.9s
+
+--- Communication Round 31/100 ---
+Selected 5 clients for this round.
+Round 31/100 | Avg Client Train Loss: 0.3466 Avg Client Train Acc: 0.8682 | Global Val Loss: 0.3191 Global Val Acc: 0.8827 | Time: 123.1s
+
+--- Communication Round 32/100 ---
+Selected 5 clients for this round.
+Round 32/100 | Avg Client Train Loss: 0.3308 Avg Client Train Acc: 0.8768 | Global Val Loss: 0.2905 Global Val Acc: 0.8827 | Time: 122.7s
+
+--- Communication Round 33/100 ---
+Selected 5 clients for this round.
+Round 33/100 | Avg Client Train Loss: 0.3304 Avg Client Train Acc: 0.8791 | Global Val Loss: 0.2683 Global Val Acc: 0.9054 | Time: 121.2s
+
+--- Communication Round 34/100 ---
+Selected 5 clients for this round.
+Round 34/100 | Avg Client Train Loss: 0.3387 Avg Client Train Acc: 0.8718 | Global Val Loss: 0.2647 Global Val Acc: 0.9037 | Time: 120.5s
+
+--- Communication Round 35/100 ---
+Selected 5 clients for this round.
+Round 35/100 | Avg Client Train Loss: 0.3176 Avg Client Train Acc: 0.8811 | Global Val Loss: 0.2808 Global Val Acc: 0.8967 | Time: 123.5s
+
+--- Communication Round 36/100 ---
+Selected 5 clients for this round.
+Round 36/100 | Avg Client Train Loss: 0.3353 Avg Client Train Acc: 0.8744 | Global Val Loss: 0.2618 Global Val Acc: 0.9037 | Time: 141.1s
+
+--- Communication Round 37/100 ---
+Selected 5 clients for this round.
+Round 37/100 | Avg Client Train Loss: 0.3253 Avg Client Train Acc: 0.8805 | Global Val Loss: 0.2679 Global Val Acc: 0.8949 | Time: 141.5s
+
+--- Communication Round 38/100 ---
+Selected 5 clients for this round.
+Round 38/100 | Avg Client Train Loss: 0.3199 Avg Client Train Acc: 0.8779 | Global Val Loss: 0.2636 Global Val Acc: 0.9072 | Time: 125.3s
+
+--- Communication Round 39/100 ---
+Selected 5 clients for this round.
+Round 39/100 | Avg Client Train Loss: 0.3287 Avg Client Train Acc: 0.8783 | Global Val Loss: 0.2936 Global Val Acc: 0.8897 | Time: 136.0s
+
+--- Communication Round 40/100 ---
+Selected 5 clients for this round.
+Round 40/100 | Avg Client Train Loss: 0.3011 Avg Client Train Acc: 0.8850 | Global Val Loss: 0.2458 Global Val Acc: 0.9177 | Time: 141.6s
+
+--- Communication Round 41/100 ---
+Selected 5 clients for this round.
+Round 41/100 | Avg Client Train Loss: 0.2920 Avg Client Train Acc: 0.8883 | Global Val Loss: 0.2407 Global Val Acc: 0.9142 | Time: 138.7s
+
+--- Communication Round 42/100 ---
+Selected 5 clients for this round.
+Round 42/100 | Avg Client Train Loss: 0.3135 Avg Client Train Acc: 0.8816 | Global Val Loss: 0.2843 Global Val Acc: 0.9054 | Time: 130.8s
+
+--- Communication Round 43/100 ---
+Selected 5 clients for this round.
+Round 43/100 | Avg Client Train Loss: 0.3070 Avg Client Train Acc: 0.8843 | Global Val Loss: 0.2298 Global Val Acc: 0.9177 | Time: 127.6s
+
+--- Communication Round 44/100 ---
+Selected 5 clients for this round.
+Round 44/100 | Avg Client Train Loss: 0.2991 Avg Client Train Acc: 0.8853 | Global Val Loss: 0.2631 Global Val Acc: 0.9054 | Time: 123.0s
+
+--- Communication Round 45/100 ---
+Selected 5 clients for this round.
+Round 45/100 | Avg Client Train Loss: 0.3006 Avg Client Train Acc: 0.8876 | Global Val Loss: 0.2595 Global Val Acc: 0.9142 | Time: 126.4s
+
+--- Communication Round 46/100 ---
+Selected 5 clients for this round.
+Round 46/100 | Avg Client Train Loss: 0.2916 Avg Client Train Acc: 0.8885 | Global Val Loss: 0.2388 Global Val Acc: 0.9177 | Time: 130.2s
+
+--- Communication Round 47/100 ---
+Selected 5 clients for this round.
+Round 47/100 | Avg Client Train Loss: 0.2915 Avg Client Train Acc: 0.8914 | Global Val Loss: 0.2551 Global Val Acc: 0.9159 | Time: 131.4s
+
+--- Communication Round 48/100 ---
+Selected 5 clients for this round.
+Round 48/100 | Avg Client Train Loss: 0.2834 Avg Client Train Acc: 0.8968 | Global Val Loss: 0.2615 Global Val Acc: 0.9089 | Time: 127.9s
+
+--- Communication Round 49/100 ---
+Selected 5 clients for this round.
+Round 49/100 | Avg Client Train Loss: 0.2912 Avg Client Train Acc: 0.8923 | Global Val Loss: 0.2586 Global Val Acc: 0.9124 | Time: 131.4s
+
+--- Communication Round 50/100 ---
+Selected 5 clients for this round.
+Round 50/100 | Avg Client Train Loss: 0.2833 Avg Client Train Acc: 0.8958 | Global Val Loss: 0.2321 Global Val Acc: 0.9247 | Time: 123.7s
+
+--- Communication Round 51/100 ---
+Selected 5 clients for this round.
+Round 51/100 | Avg Client Train Loss: 0.2721 Avg Client Train Acc: 0.8994 | Global Val Loss: 0.2329 Global Val Acc: 0.9159 | Time: 133.9s
+
+--- Communication Round 52/100 ---
+Selected 5 clients for this round.
+Round 52/100 | Avg Client Train Loss: 0.2695 Avg Client Train Acc: 0.9011 | Global Val Loss: 0.2222 Global Val Acc: 0.9177 | Time: 135.6s
+
+--- Communication Round 53/100 ---
+Selected 5 clients for this round.
+Round 53/100 | Avg Client Train Loss: 0.2824 Avg Client Train Acc: 0.8949 | Global Val Loss: 0.2211 Global Val Acc: 0.9282 | Time: 127.9s
+
+--- Communication Round 54/100 ---
+Selected 5 clients for this round.
+Round 54/100 | Avg Client Train Loss: 0.2709 Avg Client Train Acc: 0.8981 | Global Val Loss: 0.2491 Global Val Acc: 0.9124 | Time: 122.8s
+
+--- Communication Round 55/100 ---
+Selected 5 clients for this round.
+Round 55/100 | Avg Client Train Loss: 0.2643 Avg Client Train Acc: 0.9019 | Global Val Loss: 0.2184 Global Val Acc: 0.9335 | Time: 126.2s
+
+--- Communication Round 56/100 ---
+Selected 5 clients for this round.
+Round 56/100 | Avg Client Train Loss: 0.2610 Avg Client Train Acc: 0.9031 | Global Val Loss: 0.2345 Global Val Acc: 0.9142 | Time: 130.4s
+
+--- Communication Round 57/100 ---
+Selected 5 clients for this round.
+Round 57/100 | Avg Client Train Loss: 0.2605 Avg Client Train Acc: 0.9056 | Global Val Loss: 0.2168 Global Val Acc: 0.9177 | Time: 130.8s
+
+--- Communication Round 58/100 ---
+Selected 5 clients for this round.
+Round 58/100 | Avg Client Train Loss: 0.2478 Avg Client Train Acc: 0.9086 | Global Val Loss: 0.2444 Global Val Acc: 0.9159 | Time: 126.5s
+
+--- Communication Round 59/100 ---
+Selected 5 clients for this round.
+Round 59/100 | Avg Client Train Loss: 0.2359 Avg Client Train Acc: 0.9134 | Global Val Loss: 0.2082 Global Val Acc: 0.9282 | Time: 128.5s
+
+--- Communication Round 60/100 ---
+Selected 5 clients for this round.
+Round 60/100 | Avg Client Train Loss: 0.2691 Avg Client Train Acc: 0.9031 | Global Val Loss: 0.2210 Global Val Acc: 0.9264 | Time: 132.2s
+
+--- Communication Round 61/100 ---
+Selected 5 clients for this round.
+Round 61/100 | Avg Client Train Loss: 0.2502 Avg Client Train Acc: 0.9081 | Global Val Loss: 0.2188 Global Val Acc: 0.9177 | Time: 124.3s
+
+--- Communication Round 62/100 ---
+Selected 5 clients for this round.
+Round 62/100 | Avg Client Train Loss: 0.2466 Avg Client Train Acc: 0.9074 | Global Val Loss: 0.2218 Global Val Acc: 0.9229 | Time: 131.2s
+
+--- Communication Round 63/100 ---
+Selected 5 clients for this round.
+Round 63/100 | Avg Client Train Loss: 0.2430 Avg Client Train Acc: 0.9101 | Global Val Loss: 0.2265 Global Val Acc: 0.9107 | Time: 128.9s
+
+--- Communication Round 64/100 ---
+Selected 5 clients for this round.
+Round 64/100 | Avg Client Train Loss: 0.2369 Avg Client Train Acc: 0.9121 | Global Val Loss: 0.1992 Global Val Acc: 0.9299 | Time: 126.7s
+
+--- Communication Round 65/100 ---
+Selected 5 clients for this round.
+Round 65/100 | Avg Client Train Loss: 0.2418 Avg Client Train Acc: 0.9107 | Global Val Loss: 0.2447 Global Val Acc: 0.9107 | Time: 132.8s
+
+--- Communication Round 66/100 ---
+Selected 5 clients for this round.
+Round 66/100 | Avg Client Train Loss: 0.2295 Avg Client Train Acc: 0.9172 | Global Val Loss: 0.2160 Global Val Acc: 0.9212 | Time: 128.8s
+
+--- Communication Round 67/100 ---
+Selected 5 clients for this round.
+Round 67/100 | Avg Client Train Loss: 0.2459 Avg Client Train Acc: 0.9102 | Global Val Loss: 0.2046 Global Val Acc: 0.9282 | Time: 130.7s
+
+--- Communication Round 68/100 ---
+Selected 5 clients for this round.
+Round 68/100 | Avg Client Train Loss: 0.2176 Avg Client Train Acc: 0.9222 | Global Val Loss: 0.1807 Global Val Acc: 0.9352 | Time: 129.8s
+
+--- Communication Round 69/100 ---
+Selected 5 clients for this round.
+Round 69/100 | Avg Client Train Loss: 0.2184 Avg Client Train Acc: 0.9197 | Global Val Loss: 0.1761 Global Val Acc: 0.9405 | Time: 127.9s
+
+--- Communication Round 70/100 ---
+Selected 5 clients for this round.
+Round 70/100 | Avg Client Train Loss: 0.2293 Avg Client Train Acc: 0.9171 | Global Val Loss: 0.2257 Global Val Acc: 0.9194 | Time: 129.4s
+
+--- Communication Round 71/100 ---
+Selected 5 clients for this round.
+Round 71/100 | Avg Client Train Loss: 0.2282 Avg Client Train Acc: 0.9159 | Global Val Loss: 0.1718 Global Val Acc: 0.9387 | Time: 129.5s
+
+--- Communication Round 72/100 ---
+Selected 5 clients for this round.
+Round 72/100 | Avg Client Train Loss: 0.2213 Avg Client Train Acc: 0.9205 | Global Val Loss: 0.2245 Global Val Acc: 0.9107 | Time: 129.1s
+
+--- Communication Round 73/100 ---
+Selected 5 clients for this round.
+Round 73/100 | Avg Client Train Loss: 0.2078 Avg Client Train Acc: 0.9252 | Global Val Loss: 0.1641 Global Val Acc: 0.9475 | Time: 138.3s
+
+--- Communication Round 74/100 ---
+Selected 5 clients for this round.
+Round 74/100 | Avg Client Train Loss: 0.2170 Avg Client Train Acc: 0.9229 | Global Val Loss: 0.1829 Global Val Acc: 0.9387 | Time: 133.9s
+
+--- Communication Round 75/100 ---
+Selected 5 clients for this round.
+Round 75/100 | Avg Client Train Loss: 0.2097 Avg Client Train Acc: 0.9242 | Global Val Loss: 0.1698 Global Val Acc: 0.9335 | Time: 133.7s
+
+--- Communication Round 76/100 ---
+Selected 5 clients for this round.
+Round 76/100 | Avg Client Train Loss: 0.1962 Avg Client Train Acc: 0.9281 | Global Val Loss: 0.1742 Global Val Acc: 0.9352 | Time: 132.0s
+
+--- Communication Round 77/100 ---
+Selected 5 clients for this round.
+Round 77/100 | Avg Client Train Loss: 0.2104 Avg Client Train Acc: 0.9248 | Global Val Loss: 0.1834 Global Val Acc: 0.9229 | Time: 129.4s
+
+--- Communication Round 78/100 ---
+Selected 5 clients for this round.
+Round 78/100 | Avg Client Train Loss: 0.2097 Avg Client Train Acc: 0.9226 | Global Val Loss: 0.1711 Global Val Acc: 0.9405 | Time: 131.1s
+
+--- Communication Round 79/100 ---
+Selected 5 clients for this round.
+Round 79/100 | Avg Client Train Loss: 0.2038 Avg Client Train Acc: 0.9287 | Global Val Loss: 0.1670 Global Val Acc: 0.9440 | Time: 128.8s
+
+--- Communication Round 80/100 ---
+Selected 5 clients for this round.
+Round 80/100 | Avg Client Train Loss: 0.2101 Avg Client Train Acc: 0.9229 | Global Val Loss: 0.1854 Global Val Acc: 0.9317 | Time: 128.6s
+
+--- Communication Round 81/100 ---
+Selected 5 clients for this round.
+Round 81/100 | Avg Client Train Loss: 0.1862 Avg Client Train Acc: 0.9352 | Global Val Loss: 0.1558 Global Val Acc: 0.9457 | Time: 139.7s
+
+--- Communication Round 82/100 ---
+Selected 5 clients for this round.
+Round 82/100 | Avg Client Train Loss: 0.1874 Avg Client Train Acc: 0.9334 | Global Val Loss: 0.1558 Global Val Acc: 0.9492 | Time: 129.7s
+
+--- Communication Round 83/100 ---
+Selected 5 clients for this round.
+Round 83/100 | Avg Client Train Loss: 0.1973 Avg Client Train Acc: 0.9326 | Global Val Loss: 0.1715 Global Val Acc: 0.9440 | Time: 128.8s
+
+--- Communication Round 84/100 ---
+Selected 5 clients for this round.
+Round 84/100 | Avg Client Train Loss: 0.2017 Avg Client Train Acc: 0.9271 | Global Val Loss: 0.1804 Global Val Acc: 0.9352 | Time: 124.5s
+
+--- Communication Round 85/100 ---
+Selected 5 clients for this round.
+Round 85/100 | Avg Client Train Loss: 0.1988 Avg Client Train Acc: 0.9284 | Global Val Loss: 0.1499 Global Val Acc: 0.9492 | Time: 129.4s
+
+--- Communication Round 86/100 ---
+Selected 5 clients for this round.
+Round 86/100 | Avg Client Train Loss: 0.1973 Avg Client Train Acc: 0.9294 | Global Val Loss: 0.1825 Global Val Acc: 0.9352 | Time: 127.8s
+
+--- Communication Round 87/100 ---
+Selected 5 clients for this round.
+Round 87/100 | Avg Client Train Loss: 0.1840 Avg Client Train Acc: 0.9347 | Global Val Loss: 0.1472 Global Val Acc: 0.9492 | Time: 129.6s
+
+--- Communication Round 88/100 ---
+Selected 5 clients for this round.
+Round 88/100 | Avg Client Train Loss: 0.1966 Avg Client Train Acc: 0.9312 | Global Val Loss: 0.1712 Global Val Acc: 0.9440 | Time: 136.8s
+
+--- Communication Round 89/100 ---
+Selected 5 clients for this round.
+Round 89/100 | Avg Client Train Loss: 0.1759 Avg Client Train Acc: 0.9393 | Global Val Loss: 0.1643 Global Val Acc: 0.9405 | Time: 183.9s
+
+--- Communication Round 90/100 ---
+Selected 5 clients for this round.
+Round 90/100 | Avg Client Train Loss: 0.1714 Avg Client Train Acc: 0.9393 | Global Val Loss: 0.1899 Global Val Acc: 0.9264 | Time: 134.8s
+
+--- Communication Round 91/100 ---
+Selected 5 clients for this round.
+Round 91/100 | Avg Client Train Loss: 0.1711 Avg Client Train Acc: 0.9391 | Global Val Loss: 0.1729 Global Val Acc: 0.9370 | Time: 135.8s
+
+--- Communication Round 92/100 ---
+Selected 5 clients for this round.
+Round 92/100 | Avg Client Train Loss: 0.1686 Avg Client Train Acc: 0.9414 | Global Val Loss: 0.1830 Global Val Acc: 0.9299 | Time: 134.9s
+
+--- Communication Round 93/100 ---
+Selected 5 clients for this round.
+Round 93/100 | Avg Client Train Loss: 0.1751 Avg Client Train Acc: 0.9383 | Global Val Loss: 0.1885 Global Val Acc: 0.9352 | Time: 132.6s
+
+--- Communication Round 94/100 ---
+Selected 5 clients for this round.
+Round 94/100 | Avg Client Train Loss: 0.1812 Avg Client Train Acc: 0.9361 | Global Val Loss: 0.1572 Global Val Acc: 0.9440 | Time: 130.8s
+
+--- Communication Round 95/100 ---
+Selected 5 clients for this round.
+Round 95/100 | Avg Client Train Loss: 0.1665 Avg Client Train Acc: 0.9411 | Global Val Loss: 0.1423 Global Val Acc: 0.9475 | Time: 128.4s
+
+--- Communication Round 96/100 ---
+Selected 5 clients for this round.
+Round 96/100 | Avg Client Train Loss: 0.1678 Avg Client Train Acc: 0.9408 | Global Val Loss: 0.1617 Global Val Acc: 0.9387 | Time: 129.6s
+
+--- Communication Round 97/100 ---
+Selected 5 clients for this round.
+Round 97/100 | Avg Client Train Loss: 0.1642 Avg Client Train Acc: 0.9425 | Global Val Loss: 0.1576 Global Val Acc: 0.9492 | Time: 138.5s
+
+--- Communication Round 98/100 ---
+Selected 5 clients for this round.
+Round 98/100 | Avg Client Train Loss: 0.1666 Avg Client Train Acc: 0.9441 | Global Val Loss: 0.1381 Global Val Acc: 0.9440 | Time: 139.6s
+
+--- Communication Round 99/100 ---
+Selected 5 clients for this round.
+Round 99/100 | Avg Client Train Loss: 0.1641 Avg Client Train Acc: 0.9433 | Global Val Loss: 0.1763 Global Val Acc: 0.9440 | Time: 133.1s
+
+--- Communication Round 100/100 ---
+Selected 5 clients for this round.
+Round 100/100 | Avg Client Train Loss: 0.1760 Avg Client Train Acc: 0.9389 | Global Val Loss: 0.1360 Global Val Acc: 0.9492 | Time: 132.2s
+
+================================================================================
+Starting Federated Training for model: VGGLike
+================================================================================
+
+--- Communication Round 1/100 ---
+Selected 5 clients for this round.
+Round 1/100 | Avg Client Train Loss: 0.8394 Avg Client Train Acc: 0.6546 | Global Val Loss: 1.7398 Global Val Acc: 0.2732 | Time: 167.7s
+
+--- Communication Round 2/100 ---
+Selected 5 clients for this round.
+Round 2/100 | Avg Client Train Loss: 0.7761 Avg Client Train Acc: 0.6851 | Global Val Loss: 1.1027 Global Val Acc: 0.5622 | Time: 166.8s
+
+--- Communication Round 3/100 ---
+Selected 5 clients for this round.
+Round 3/100 | Avg Client Train Loss: 0.6890 Avg Client Train Acc: 0.7235 | Global Val Loss: 1.1216 Global Val Acc: 0.5867 | Time: 169.6s
+
+--- Communication Round 4/100 ---
+Selected 5 clients for this round.
+Round 4/100 | Avg Client Train Loss: 0.6305 Avg Client Train Acc: 0.7541 | Global Val Loss: 0.6015 Global Val Acc: 0.7653 | Time: 167.8s
+
+--- Communication Round 5/100 ---
+Selected 5 clients for this round.
+Round 5/100 | Avg Client Train Loss: 0.5815 Avg Client Train Acc: 0.7777 | Global Val Loss: 0.8126 Global Val Acc: 0.6270 | Time: 168.2s
+
+--- Communication Round 6/100 ---
+Selected 5 clients for this round.
+Round 6/100 | Avg Client Train Loss: 0.5391 Avg Client Train Acc: 0.7911 | Global Val Loss: 0.5292 Global Val Acc: 0.7933 | Time: 168.0s
+
+--- Communication Round 7/100 ---
+Selected 5 clients for this round.
+Round 7/100 | Avg Client Train Loss: 0.4933 Avg Client Train Acc: 0.8093 | Global Val Loss: 0.6283 Global Val Acc: 0.7250 | Time: 170.3s
+
+--- Communication Round 8/100 ---
+Selected 5 clients for this round.
+Round 8/100 | Avg Client Train Loss: 0.4897 Avg Client Train Acc: 0.8170 | Global Val Loss: 0.4383 Global Val Acc: 0.8336 | Time: 171.9s
+
+--- Communication Round 9/100 ---
+Selected 5 clients for this round.
+Round 9/100 | Avg Client Train Loss: 0.4495 Avg Client Train Acc: 0.8352 | Global Val Loss: 0.3899 Global Val Acc: 0.8529 | Time: 170.0s
+
+--- Communication Round 10/100 ---
+Selected 5 clients for this round.
+Round 10/100 | Avg Client Train Loss: 0.4440 Avg Client Train Acc: 0.8334 | Global Val Loss: 0.4051 Global Val Acc: 0.8599 | Time: 170.8s
+
+--- Communication Round 11/100 ---
+Selected 5 clients for this round.
+Round 11/100 | Avg Client Train Loss: 0.4109 Avg Client Train Acc: 0.8470 | Global Val Loss: 0.5120 Global Val Acc: 0.8091 | Time: 170.9s
+
+--- Communication Round 12/100 ---
+Selected 5 clients for this round.
+Round 12/100 | Avg Client Train Loss: 0.3860 Avg Client Train Acc: 0.8556 | Global Val Loss: 0.3700 Global Val Acc: 0.8529 | Time: 164.7s
+
+--- Communication Round 13/100 ---
+Selected 5 clients for this round.
+Round 13/100 | Avg Client Train Loss: 0.3868 Avg Client Train Acc: 0.8566 | Global Val Loss: 0.3743 Global Val Acc: 0.8722 | Time: 167.1s
+
+--- Communication Round 14/100 ---
+Selected 5 clients for this round.
+Round 14/100 | Avg Client Train Loss: 0.3672 Avg Client Train Acc: 0.8651 | Global Val Loss: 0.3791 Global Val Acc: 0.8651 | Time: 168.6s
+
+--- Communication Round 15/100 ---
+Selected 5 clients for this round.
+Round 15/100 | Avg Client Train Loss: 0.3364 Avg Client Train Acc: 0.8773 | Global Val Loss: 0.2807 Global Val Acc: 0.8932 | Time: 167.0s
+
+--- Communication Round 16/100 ---
+Selected 5 clients for this round.
+Round 16/100 | Avg Client Train Loss: 0.3409 Avg Client Train Acc: 0.8750 | Global Val Loss: 0.2892 Global Val Acc: 0.8949 | Time: 171.2s
+
+--- Communication Round 17/100 ---
+Selected 5 clients for this round.
+Round 17/100 | Avg Client Train Loss: 0.3511 Avg Client Train Acc: 0.8725 | Global Val Loss: 0.3219 Global Val Acc: 0.8827 | Time: 163.3s
+
+--- Communication Round 18/100 ---
+Selected 5 clients for this round.
+Round 18/100 | Avg Client Train Loss: 0.3316 Avg Client Train Acc: 0.8797 | Global Val Loss: 0.3180 Global Val Acc: 0.8897 | Time: 164.7s
+
+--- Communication Round 19/100 ---
+Selected 5 clients for this round.
+Round 19/100 | Avg Client Train Loss: 0.3015 Avg Client Train Acc: 0.8893 | Global Val Loss: 0.2548 Global Val Acc: 0.9142 | Time: 169.4s
+
+--- Communication Round 20/100 ---
+Selected 5 clients for this round.
+Round 20/100 | Avg Client Train Loss: 0.3195 Avg Client Train Acc: 0.8852 | Global Val Loss: 0.2691 Global Val Acc: 0.8984 | Time: 164.6s
+
+--- Communication Round 21/100 ---
+Selected 5 clients for this round.
+Round 21/100 | Avg Client Train Loss: 0.2848 Avg Client Train Acc: 0.8966 | Global Val Loss: 0.2577 Global Val Acc: 0.9142 | Time: 171.8s
+
+--- Communication Round 22/100 ---
+Selected 5 clients for this round.
+Round 22/100 | Avg Client Train Loss: 0.3166 Avg Client Train Acc: 0.8856 | Global Val Loss: 0.2357 Global Val Acc: 0.9212 | Time: 165.5s
+
+--- Communication Round 23/100 ---
+Selected 5 clients for this round.
+Round 23/100 | Avg Client Train Loss: 0.2750 Avg Client Train Acc: 0.8989 | Global Val Loss: 0.3004 Global Val Acc: 0.8879 | Time: 171.5s
+
+--- Communication Round 24/100 ---
+Selected 5 clients for this round.
+Round 24/100 | Avg Client Train Loss: 0.2618 Avg Client Train Acc: 0.9045 | Global Val Loss: 0.2355 Global Val Acc: 0.9142 | Time: 167.9s
+
+--- Communication Round 25/100 ---
+Selected 5 clients for this round.
+Round 25/100 | Avg Client Train Loss: 0.2507 Avg Client Train Acc: 0.9093 | Global Val Loss: 0.2246 Global Val Acc: 0.9159 | Time: 173.9s
+
+--- Communication Round 26/100 ---
+Selected 5 clients for this round.
+Round 26/100 | Avg Client Train Loss: 0.2555 Avg Client Train Acc: 0.9090 | Global Val Loss: 0.1939 Global Val Acc: 0.9335 | Time: 171.3s
+
+--- Communication Round 27/100 ---
+Selected 5 clients for this round.
+Round 27/100 | Avg Client Train Loss: 0.2515 Avg Client Train Acc: 0.9098 | Global Val Loss: 0.2065 Global Val Acc: 0.9212 | Time: 170.7s
+
+--- Communication Round 28/100 ---
+Selected 5 clients for this round.
+Round 28/100 | Avg Client Train Loss: 0.2385 Avg Client Train Acc: 0.9134 | Global Val Loss: 0.2012 Global Val Acc: 0.9194 | Time: 170.4s
+
+--- Communication Round 29/100 ---
+Selected 5 clients for this round.
+Round 29/100 | Avg Client Train Loss: 0.2536 Avg Client Train Acc: 0.9075 | Global Val Loss: 0.1728 Global Val Acc: 0.9387 | Time: 173.4s
+
+--- Communication Round 30/100 ---
+Selected 5 clients for this round.
+Round 30/100 | Avg Client Train Loss: 0.2302 Avg Client Train Acc: 0.9195 | Global Val Loss: 0.2184 Global Val Acc: 0.9194 | Time: 170.7s
+
+--- Communication Round 31/100 ---
+Selected 5 clients for this round.
+Round 31/100 | Avg Client Train Loss: 0.2373 Avg Client Train Acc: 0.9155 | Global Val Loss: 0.1644 Global Val Acc: 0.9440 | Time: 170.7s
+
+--- Communication Round 32/100 ---
+Selected 5 clients for this round.
+Round 32/100 | Avg Client Train Loss: 0.2231 Avg Client Train Acc: 0.9215 | Global Val Loss: 0.1676 Global Val Acc: 0.9352 | Time: 173.8s
+
+--- Communication Round 33/100 ---
+Selected 5 clients for this round.
+Round 33/100 | Avg Client Train Loss: 0.2141 Avg Client Train Acc: 0.9236 | Global Val Loss: 0.1750 Global Val Acc: 0.9352 | Time: 172.2s
+
+--- Communication Round 34/100 ---
+Selected 5 clients for this round.
+Round 34/100 | Avg Client Train Loss: 0.1952 Avg Client Train Acc: 0.9317 | Global Val Loss: 0.1861 Global Val Acc: 0.9282 | Time: 174.2s
+
+--- Communication Round 35/100 ---
+Selected 5 clients for this round.
+Round 35/100 | Avg Client Train Loss: 0.2152 Avg Client Train Acc: 0.9244 | Global Val Loss: 0.1740 Global Val Acc: 0.9405 | Time: 171.1s
+
+--- Communication Round 36/100 ---
+Selected 5 clients for this round.
+Round 36/100 | Avg Client Train Loss: 0.1901 Avg Client Train Acc: 0.9319 | Global Val Loss: 0.1421 Global Val Acc: 0.9510 | Time: 175.6s
+
+--- Communication Round 37/100 ---
+Selected 5 clients for this round.
+Round 37/100 | Avg Client Train Loss: 0.1874 Avg Client Train Acc: 0.9328 | Global Val Loss: 0.1593 Global Val Acc: 0.9440 | Time: 172.3s
+
+--- Communication Round 38/100 ---
+Selected 5 clients for this round.
+Round 38/100 | Avg Client Train Loss: 0.1744 Avg Client Train Acc: 0.9390 | Global Val Loss: 0.2059 Global Val Acc: 0.9212 | Time: 173.5s
+
+--- Communication Round 39/100 ---
+Selected 5 clients for this round.
+Round 39/100 | Avg Client Train Loss: 0.1884 Avg Client Train Acc: 0.9349 | Global Val Loss: 0.1307 Global Val Acc: 0.9597 | Time: 170.7s
+
+--- Communication Round 40/100 ---
+Selected 5 clients for this round.
+Round 40/100 | Avg Client Train Loss: 0.1747 Avg Client Train Acc: 0.9388 | Global Val Loss: 0.1543 Global Val Acc: 0.9440 | Time: 178.0s
+
+--- Communication Round 41/100 ---
+Selected 5 clients for this round.
+Round 41/100 | Avg Client Train Loss: 0.1864 Avg Client Train Acc: 0.9350 | Global Val Loss: 0.1356 Global Val Acc: 0.9457 | Time: 173.8s
+
+--- Communication Round 42/100 ---
+Selected 5 clients for this round.
+Round 42/100 | Avg Client Train Loss: 0.1813 Avg Client Train Acc: 0.9374 | Global Val Loss: 0.1604 Global Val Acc: 0.9405 | Time: 171.9s
+
+--- Communication Round 43/100 ---
+Selected 5 clients for this round.
+Round 43/100 | Avg Client Train Loss: 0.1738 Avg Client Train Acc: 0.9398 | Global Val Loss: 0.1518 Global Val Acc: 0.9387 | Time: 172.0s
+
+--- Communication Round 44/100 ---
+Selected 5 clients for this round.
+Round 44/100 | Avg Client Train Loss: 0.1723 Avg Client Train Acc: 0.9398 | Global Val Loss: 0.1600 Global Val Acc: 0.9387 | Time: 167.9s
+
+--- Communication Round 45/100 ---
+Selected 5 clients for this round.
+Round 45/100 | Avg Client Train Loss: 0.1711 Avg Client Train Acc: 0.9408 | Global Val Loss: 0.1451 Global Val Acc: 0.9457 | Time: 175.2s
+
+--- Communication Round 46/100 ---
+Selected 5 clients for this round.
+Round 46/100 | Avg Client Train Loss: 0.1600 Avg Client Train Acc: 0.9435 | Global Val Loss: 0.1354 Global Val Acc: 0.9440 | Time: 172.2s
+
+--- Communication Round 47/100 ---
+Selected 5 clients for this round.
+Round 47/100 | Avg Client Train Loss: 0.1548 Avg Client Train Acc: 0.9479 | Global Val Loss: 0.1316 Global Val Acc: 0.9527 | Time: 174.9s
+
+--- Communication Round 48/100 ---
+Selected 5 clients for this round.
+Round 48/100 | Avg Client Train Loss: 0.1514 Avg Client Train Acc: 0.9485 | Global Val Loss: 0.1510 Global Val Acc: 0.9457 | Time: 171.7s
+
+--- Communication Round 49/100 ---
+Selected 5 clients for this round.
+Round 49/100 | Avg Client Train Loss: 0.1512 Avg Client Train Acc: 0.9476 | Global Val Loss: 0.1203 Global Val Acc: 0.9562 | Time: 171.8s
+
+--- Communication Round 50/100 ---
+Selected 5 clients for this round.
+Round 50/100 | Avg Client Train Loss: 0.1643 Avg Client Train Acc: 0.9450 | Global Val Loss: 0.1707 Global Val Acc: 0.9457 | Time: 173.0s
+
+--- Communication Round 51/100 ---
+Selected 5 clients for this round.
+Round 51/100 | Avg Client Train Loss: 0.1651 Avg Client Train Acc: 0.9419 | Global Val Loss: 0.1731 Global Val Acc: 0.9352 | Time: 175.9s
+
+--- Communication Round 52/100 ---
+Selected 5 clients for this round.
+Round 52/100 | Avg Client Train Loss: 0.1442 Avg Client Train Acc: 0.9484 | Global Val Loss: 0.1509 Global Val Acc: 0.9387 | Time: 169.6s
+
+--- Communication Round 53/100 ---
+Selected 5 clients for this round.
+Round 53/100 | Avg Client Train Loss: 0.1357 Avg Client Train Acc: 0.9533 | Global Val Loss: 0.1056 Global Val Acc: 0.9615 | Time: 171.8s
+
+--- Communication Round 54/100 ---
+Selected 5 clients for this round.
+Round 54/100 | Avg Client Train Loss: 0.1403 Avg Client Train Acc: 0.9535 | Global Val Loss: 0.1265 Global Val Acc: 0.9475 | Time: 170.1s
+
+--- Communication Round 55/100 ---
+Selected 5 clients for this round.
+Round 55/100 | Avg Client Train Loss: 0.1490 Avg Client Train Acc: 0.9511 | Global Val Loss: 0.1378 Global Val Acc: 0.9492 | Time: 156.4s
+
+--- Communication Round 56/100 ---
+Selected 5 clients for this round.
+Round 56/100 | Avg Client Train Loss: 0.1252 Avg Client Train Acc: 0.9566 | Global Val Loss: 0.1201 Global Val Acc: 0.9580 | Time: 171.9s
+
+--- Communication Round 57/100 ---
+Selected 5 clients for this round.
+Round 57/100 | Avg Client Train Loss: 0.1315 Avg Client Train Acc: 0.9551 | Global Val Loss: 0.1018 Global Val Acc: 0.9527 | Time: 170.3s
+
+--- Communication Round 58/100 ---
+Selected 5 clients for this round.
+Round 58/100 | Avg Client Train Loss: 0.1226 Avg Client Train Acc: 0.9595 | Global Val Loss: 0.1133 Global Val Acc: 0.9580 | Time: 168.0s
+
+--- Communication Round 59/100 ---
+Selected 5 clients for this round.
+Round 59/100 | Avg Client Train Loss: 0.1459 Avg Client Train Acc: 0.9498 | Global Val Loss: 0.1540 Global Val Acc: 0.9422 | Time: 175.2s
+
+--- Communication Round 60/100 ---
+Selected 5 clients for this round.
+Round 60/100 | Avg Client Train Loss: 0.1419 Avg Client Train Acc: 0.9504 | Global Val Loss: 0.1065 Global Val Acc: 0.9545 | Time: 171.5s
+
+--- Communication Round 61/100 ---
+Selected 5 clients for this round.
+Round 61/100 | Avg Client Train Loss: 0.1400 Avg Client Train Acc: 0.9538 | Global Val Loss: 0.1362 Global Val Acc: 0.9457 | Time: 174.1s
+
+--- Communication Round 62/100 ---
+Selected 5 clients for this round.
+Round 62/100 | Avg Client Train Loss: 0.1423 Avg Client Train Acc: 0.9529 | Global Val Loss: 0.1162 Global Val Acc: 0.9562 | Time: 173.5s
+
+--- Communication Round 63/100 ---
+Selected 5 clients for this round.
+Round 63/100 | Avg Client Train Loss: 0.1462 Avg Client Train Acc: 0.9530 | Global Val Loss: 0.1334 Global Val Acc: 0.9475 | Time: 171.8s
+
+--- Communication Round 64/100 ---
+Selected 5 clients for this round.
+Round 64/100 | Avg Client Train Loss: 0.1220 Avg Client Train Acc: 0.9599 | Global Val Loss: 0.1369 Global Val Acc: 0.9510 | Time: 174.4s
+
+--- Communication Round 65/100 ---
+Selected 5 clients for this round.
+Round 65/100 | Avg Client Train Loss: 0.1359 Avg Client Train Acc: 0.9536 | Global Val Loss: 0.1209 Global Val Acc: 0.9615 | Time: 168.0s
+
+--- Communication Round 66/100 ---
+Selected 5 clients for this round.
+Round 66/100 | Avg Client Train Loss: 0.1206 Avg Client Train Acc: 0.9602 | Global Val Loss: 0.1544 Global Val Acc: 0.9422 | Time: 173.9s
+
+--- Communication Round 67/100 ---
+Selected 5 clients for this round.
+Round 67/100 | Avg Client Train Loss: 0.1265 Avg Client Train Acc: 0.9589 | Global Val Loss: 0.1015 Global Val Acc: 0.9720 | Time: 172.5s
+
+--- Communication Round 68/100 ---
+Selected 5 clients for this round.
+Round 68/100 | Avg Client Train Loss: 0.1045 Avg Client Train Acc: 0.9643 | Global Val Loss: 0.0900 Global Val Acc: 0.9702 | Time: 170.0s
+
+--- Communication Round 69/100 ---
+Selected 5 clients for this round.
+Round 69/100 | Avg Client Train Loss: 0.1261 Avg Client Train Acc: 0.9574 | Global Val Loss: 0.1643 Global Val Acc: 0.9352 | Time: 171.8s
+
+--- Communication Round 70/100 ---
+Selected 5 clients for this round.
+Round 70/100 | Avg Client Train Loss: 0.1250 Avg Client Train Acc: 0.9602 | Global Val Loss: 0.1357 Global Val Acc: 0.9510 | Time: 173.3s
+
+--- Communication Round 71/100 ---
+Selected 5 clients for this round.
+Round 71/100 | Avg Client Train Loss: 0.1214 Avg Client Train Acc: 0.9594 | Global Val Loss: 0.1005 Global Val Acc: 0.9615 | Time: 176.9s
+
+--- Communication Round 72/100 ---
+Selected 5 clients for this round.
+Round 72/100 | Avg Client Train Loss: 0.1234 Avg Client Train Acc: 0.9600 | Global Val Loss: 0.1222 Global Val Acc: 0.9527 | Time: 171.5s
+
+--- Communication Round 73/100 ---
+Selected 5 clients for this round.
+Round 73/100 | Avg Client Train Loss: 0.1101 Avg Client Train Acc: 0.9650 | Global Val Loss: 0.0926 Global Val Acc: 0.9650 | Time: 171.9s
+
+--- Communication Round 74/100 ---
+Selected 5 clients for this round.
+Round 74/100 | Avg Client Train Loss: 0.1106 Avg Client Train Acc: 0.9638 | Global Val Loss: 0.1070 Global Val Acc: 0.9667 | Time: 173.2s
+
+--- Communication Round 75/100 ---
+Selected 5 clients for this round.
+Round 75/100 | Avg Client Train Loss: 0.1065 Avg Client Train Acc: 0.9637 | Global Val Loss: 0.1083 Global Val Acc: 0.9702 | Time: 171.8s
+
+--- Communication Round 76/100 ---
+Selected 5 clients for this round.
+Round 76/100 | Avg Client Train Loss: 0.1182 Avg Client Train Acc: 0.9629 | Global Val Loss: 0.1469 Global Val Acc: 0.9422 | Time: 176.8s
+
+--- Communication Round 77/100 ---
+Selected 5 clients for this round.
+Round 77/100 | Avg Client Train Loss: 0.0996 Avg Client Train Acc: 0.9669 | Global Val Loss: 0.1275 Global Val Acc: 0.9632 | Time: 168.2s
+
+--- Communication Round 78/100 ---
+Selected 5 clients for this round.
+Round 78/100 | Avg Client Train Loss: 0.1204 Avg Client Train Acc: 0.9606 | Global Val Loss: 0.0949 Global Val Acc: 0.9685 | Time: 175.8s
+
+--- Communication Round 79/100 ---
+Selected 5 clients for this round.
+Round 79/100 | Avg Client Train Loss: 0.1263 Avg Client Train Acc: 0.9589 | Global Val Loss: 0.0972 Global Val Acc: 0.9720 | Time: 172.5s
+
+--- Communication Round 80/100 ---
+Selected 5 clients for this round.
+Round 80/100 | Avg Client Train Loss: 0.1170 Avg Client Train Acc: 0.9616 | Global Val Loss: 0.1263 Global Val Acc: 0.9580 | Time: 173.5s
+
+--- Communication Round 81/100 ---
+Selected 5 clients for this round.
+Round 81/100 | Avg Client Train Loss: 0.1278 Avg Client Train Acc: 0.9581 | Global Val Loss: 0.1242 Global Val Acc: 0.9580 | Time: 173.8s
+
+--- Communication Round 82/100 ---
+Selected 5 clients for this round.
+Round 82/100 | Avg Client Train Loss: 0.0973 Avg Client Train Acc: 0.9685 | Global Val Loss: 0.1168 Global Val Acc: 0.9667 | Time: 172.7s
+
+--- Communication Round 83/100 ---
+Selected 5 clients for this round.
+Round 83/100 | Avg Client Train Loss: 0.1082 Avg Client Train Acc: 0.9663 | Global Val Loss: 0.1257 Global Val Acc: 0.9580 | Time: 171.5s
+
+--- Communication Round 84/100 ---
+Selected 5 clients for this round.
+Round 84/100 | Avg Client Train Loss: 0.1002 Avg Client Train Acc: 0.9693 | Global Val Loss: 0.1052 Global Val Acc: 0.9720 | Time: 171.9s
+
+--- Communication Round 85/100 ---
+Selected 5 clients for this round.
+Round 85/100 | Avg Client Train Loss: 0.0903 Avg Client Train Acc: 0.9706 | Global Val Loss: 0.0851 Global Val Acc: 0.9772 | Time: 172.8s
+
+--- Communication Round 86/100 ---
+Selected 5 clients for this round.
+Round 86/100 | Avg Client Train Loss: 0.1072 Avg Client Train Acc: 0.9648 | Global Val Loss: 0.0924 Global Val Acc: 0.9667 | Time: 153.2s
+
+--- Communication Round 87/100 ---
+Selected 5 clients for this round.
+Round 87/100 | Avg Client Train Loss: 0.1024 Avg Client Train Acc: 0.9656 | Global Val Loss: 0.1165 Global Val Acc: 0.9597 | Time: 149.3s
+
+--- Communication Round 88/100 ---
+Selected 5 clients for this round.
+Round 88/100 | Avg Client Train Loss: 0.1303 Avg Client Train Acc: 0.9570 | Global Val Loss: 0.1278 Global Val Acc: 0.9615 | Time: 151.4s
+
+--- Communication Round 89/100 ---
+Selected 5 clients for this round.
+Round 89/100 | Avg Client Train Loss: 0.0894 Avg Client Train Acc: 0.9715 | Global Val Loss: 0.1047 Global Val Acc: 0.9667 | Time: 147.6s
+
+--- Communication Round 90/100 ---
+Selected 5 clients for this round.
+Round 90/100 | Avg Client Train Loss: 0.1130 Avg Client Train Acc: 0.9630 | Global Val Loss: 0.0967 Global Val Acc: 0.9737 | Time: 154.2s
+
+--- Communication Round 91/100 ---
+Selected 5 clients for this round.
+Round 91/100 | Avg Client Train Loss: 0.1046 Avg Client Train Acc: 0.9669 | Global Val Loss: 0.1336 Global Val Acc: 0.9562 | Time: 149.9s
+
+--- Communication Round 92/100 ---
+Selected 5 clients for this round.
+Round 92/100 | Avg Client Train Loss: 0.0926 Avg Client Train Acc: 0.9700 | Global Val Loss: 0.1017 Global Val Acc: 0.9667 | Time: 148.3s
+
+--- Communication Round 93/100 ---
+Selected 5 clients for this round.
+Round 93/100 | Avg Client Train Loss: 0.1078 Avg Client Train Acc: 0.9652 | Global Val Loss: 0.1443 Global Val Acc: 0.9597 | Time: 152.7s
+
+--- Communication Round 94/100 ---
+Selected 5 clients for this round.
+Round 94/100 | Avg Client Train Loss: 0.0947 Avg Client Train Acc: 0.9698 | Global Val Loss: 0.1369 Global Val Acc: 0.9562 | Time: 155.5s
+
+--- Communication Round 95/100 ---
+Selected 5 clients for this round.
+Round 95/100 | Avg Client Train Loss: 0.0967 Avg Client Train Acc: 0.9684 | Global Val Loss: 0.0977 Global Val Acc: 0.9737 | Time: 147.5s
+
+--- Communication Round 96/100 ---
+Selected 5 clients for this round.
+Round 96/100 | Avg Client Train Loss: 0.1044 Avg Client Train Acc: 0.9659 | Global Val Loss: 0.0908 Global Val Acc: 0.9720 | Time: 149.9s
+
+--- Communication Round 97/100 ---
+Selected 5 clients for this round.
+Round 97/100 | Avg Client Train Loss: 0.1020 Avg Client Train Acc: 0.9666 | Global Val Loss: 0.1034 Global Val Acc: 0.9702 | Time: 150.3s
+
+--- Communication Round 98/100 ---
+Selected 5 clients for this round.
+Round 98/100 | Avg Client Train Loss: 0.0911 Avg Client Train Acc: 0.9699 | Global Val Loss: 0.0969 Global Val Acc: 0.9685 | Time: 154.5s
+
+--- Communication Round 99/100 ---
+Selected 5 clients for this round.
+Round 99/100 | Avg Client Train Loss: 0.0928 Avg Client Train Acc: 0.9703 | Global Val Loss: 0.0893 Global Val Acc: 0.9737 | Time: 148.7s
+
+--- Communication Round 100/100 ---
+Selected 5 clients for this round.
+Round 100/100 | Avg Client Train Loss: 0.1002 Avg Client Train Acc: 0.9680 | Global Val Loss: 0.1001 Global Val Acc: 0.9685 | Time: 148.6s
+
+================================================================================
+Starting Federated Training for model: ResNetLike
+================================================================================
+
+--- Communication Round 1/100 ---
+Selected 5 clients for this round.
+Round 1/100 | Avg Client Train Loss: 0.7433 Avg Client Train Acc: 0.6989 | Global Val Loss: 1.4031 Global Val Acc: 0.3012 | Time: 117.8s
+
+--- Communication Round 2/100 ---
+Selected 5 clients for this round.
+Round 2/100 | Avg Client Train Loss: 0.6258 Avg Client Train Acc: 0.7491 | Global Val Loss: 0.9511 Global Val Acc: 0.6270 | Time: 116.0s
+
+--- Communication Round 3/100 ---
+Selected 5 clients for this round.
+Round 3/100 | Avg Client Train Loss: 0.5266 Avg Client Train Acc: 0.7920 | Global Val Loss: 0.4938 Global Val Acc: 0.8231 | Time: 119.2s
+
+--- Communication Round 4/100 ---
+Selected 5 clients for this round.
+Round 4/100 | Avg Client Train Loss: 0.4423 Avg Client Train Acc: 0.8288 | Global Val Loss: 0.4929 Global Val Acc: 0.8284 | Time: 113.4s
+
+--- Communication Round 5/100 ---
+Selected 5 clients for this round.
+Round 5/100 | Avg Client Train Loss: 0.3902 Avg Client Train Acc: 0.8548 | Global Val Loss: 0.5347 Global Val Acc: 0.7916 | Time: 127.3s
+
+--- Communication Round 6/100 ---
+Selected 5 clients for this round.
+Round 6/100 | Avg Client Train Loss: 0.3768 Avg Client Train Acc: 0.8586 | Global Val Loss: 0.3814 Global Val Acc: 0.8599 | Time: 112.7s
+
+--- Communication Round 7/100 ---
+Selected 5 clients for this round.
+Round 7/100 | Avg Client Train Loss: 0.3169 Avg Client Train Acc: 0.8839 | Global Val Loss: 0.3413 Global Val Acc: 0.8914 | Time: 112.5s
+
+--- Communication Round 8/100 ---
+Selected 5 clients for this round.
+Round 8/100 | Avg Client Train Loss: 0.2761 Avg Client Train Acc: 0.8997 | Global Val Loss: 0.2670 Global Val Acc: 0.9072 | Time: 126.8s
+
+--- Communication Round 9/100 ---
+Selected 5 clients for this round.
+Round 9/100 | Avg Client Train Loss: 0.2652 Avg Client Train Acc: 0.9033 | Global Val Loss: 0.3331 Global Val Acc: 0.8879 | Time: 117.1s
+
+--- Communication Round 10/100 ---
+Selected 5 clients for this round.
+Round 10/100 | Avg Client Train Loss: 0.2660 Avg Client Train Acc: 0.9027 | Global Val Loss: 0.2330 Global Val Acc: 0.9089 | Time: 110.4s
+
+--- Communication Round 11/100 ---
+Selected 5 clients for this round.
+Round 11/100 | Avg Client Train Loss: 0.2394 Avg Client Train Acc: 0.9135 | Global Val Loss: 0.2416 Global Val Acc: 0.9159 | Time: 108.7s
+
+--- Communication Round 12/100 ---
+Selected 5 clients for this round.
+Round 12/100 | Avg Client Train Loss: 0.2323 Avg Client Train Acc: 0.9167 | Global Val Loss: 0.2131 Global Val Acc: 0.9212 | Time: 115.9s
+
+--- Communication Round 13/100 ---
+Selected 5 clients for this round.
+Round 13/100 | Avg Client Train Loss: 0.2197 Avg Client Train Acc: 0.9211 | Global Val Loss: 0.2748 Global Val Acc: 0.8897 | Time: 117.2s
+
+--- Communication Round 14/100 ---
+Selected 5 clients for this round.
+Round 14/100 | Avg Client Train Loss: 0.1899 Avg Client Train Acc: 0.9305 | Global Val Loss: 0.2279 Global Val Acc: 0.9212 | Time: 115.8s
+
+--- Communication Round 15/100 ---
+Selected 5 clients for this round.
+Round 15/100 | Avg Client Train Loss: 0.2054 Avg Client Train Acc: 0.9263 | Global Val Loss: 0.2165 Global Val Acc: 0.9212 | Time: 114.6s
+
+--- Communication Round 16/100 ---
+Selected 5 clients for this round.
+Round 16/100 | Avg Client Train Loss: 0.1835 Avg Client Train Acc: 0.9351 | Global Val Loss: 0.1721 Global Val Acc: 0.9282 | Time: 116.3s
+
+--- Communication Round 17/100 ---
+Selected 5 clients for this round.
+Round 17/100 | Avg Client Train Loss: 0.1559 Avg Client Train Acc: 0.9444 | Global Val Loss: 0.1594 Global Val Acc: 0.9405 | Time: 119.9s
+
+--- Communication Round 18/100 ---
+Selected 5 clients for this round.
+Round 18/100 | Avg Client Train Loss: 0.1861 Avg Client Train Acc: 0.9331 | Global Val Loss: 0.1551 Global Val Acc: 0.9352 | Time: 113.7s
+
+--- Communication Round 19/100 ---
+Selected 5 clients for this round.
+Round 19/100 | Avg Client Train Loss: 0.1752 Avg Client Train Acc: 0.9374 | Global Val Loss: 0.1582 Global Val Acc: 0.9352 | Time: 113.3s
+
+--- Communication Round 20/100 ---
+Selected 5 clients for this round.
+Round 20/100 | Avg Client Train Loss: 0.1600 Avg Client Train Acc: 0.9430 | Global Val Loss: 0.1521 Global Val Acc: 0.9440 | Time: 114.3s
+
+--- Communication Round 21/100 ---
+Selected 5 clients for this round.
+Round 21/100 | Avg Client Train Loss: 0.1510 Avg Client Train Acc: 0.9486 | Global Val Loss: 0.1876 Global Val Acc: 0.9194 | Time: 119.0s
+
+--- Communication Round 22/100 ---
+Selected 5 clients for this round.
+Round 22/100 | Avg Client Train Loss: 0.1469 Avg Client Train Acc: 0.9481 | Global Val Loss: 0.1555 Global Val Acc: 0.9440 | Time: 116.4s
+
+--- Communication Round 23/100 ---
+Selected 5 clients for this round.
+Round 23/100 | Avg Client Train Loss: 0.1452 Avg Client Train Acc: 0.9496 | Global Val Loss: 0.1291 Global Val Acc: 0.9545 | Time: 120.4s
+
+--- Communication Round 24/100 ---
+Selected 5 clients for this round.
+Round 24/100 | Avg Client Train Loss: 0.1381 Avg Client Train Acc: 0.9542 | Global Val Loss: 0.1313 Global Val Acc: 0.9597 | Time: 127.6s
+
+--- Communication Round 25/100 ---
+Selected 5 clients for this round.
+Round 25/100 | Avg Client Train Loss: 0.1225 Avg Client Train Acc: 0.9578 | Global Val Loss: 0.1656 Global Val Acc: 0.9457 | Time: 123.2s
+
+--- Communication Round 26/100 ---
+Selected 5 clients for this round.
+Round 26/100 | Avg Client Train Loss: 0.1264 Avg Client Train Acc: 0.9575 | Global Val Loss: 0.1667 Global Val Acc: 0.9352 | Time: 127.3s
+
+--- Communication Round 27/100 ---
+Selected 5 clients for this round.
+Round 27/100 | Avg Client Train Loss: 0.1235 Avg Client Train Acc: 0.9581 | Global Val Loss: 0.1567 Global Val Acc: 0.9440 | Time: 125.4s
+
+--- Communication Round 28/100 ---
+Selected 5 clients for this round.
+Round 28/100 | Avg Client Train Loss: 0.1126 Avg Client Train Acc: 0.9609 | Global Val Loss: 0.1259 Global Val Acc: 0.9492 | Time: 117.3s
+
+--- Communication Round 29/100 ---
+Selected 5 clients for this round.
+Round 29/100 | Avg Client Train Loss: 0.1137 Avg Client Train Acc: 0.9620 | Global Val Loss: 0.1310 Global Val Acc: 0.9510 | Time: 119.8s
+
+--- Communication Round 30/100 ---
+Selected 5 clients for this round.
+Round 30/100 | Avg Client Train Loss: 0.1209 Avg Client Train Acc: 0.9571 | Global Val Loss: 0.1296 Global Val Acc: 0.9545 | Time: 119.3s
+
+--- Communication Round 31/100 ---
+Selected 5 clients for this round.
+Round 31/100 | Avg Client Train Loss: 0.1019 Avg Client Train Acc: 0.9638 | Global Val Loss: 0.1442 Global Val Acc: 0.9545 | Time: 118.9s
+
+--- Communication Round 32/100 ---
+Selected 5 clients for this round.
+Round 32/100 | Avg Client Train Loss: 0.1008 Avg Client Train Acc: 0.9651 | Global Val Loss: 0.1164 Global Val Acc: 0.9510 | Time: 120.5s
+
+--- Communication Round 33/100 ---
+Selected 5 clients for this round.
+Round 33/100 | Avg Client Train Loss: 0.1030 Avg Client Train Acc: 0.9654 | Global Val Loss: 0.1126 Global Val Acc: 0.9615 | Time: 119.0s
+
+--- Communication Round 34/100 ---
+Selected 5 clients for this round.
+Round 34/100 | Avg Client Train Loss: 0.0956 Avg Client Train Acc: 0.9669 | Global Val Loss: 0.1334 Global Val Acc: 0.9492 | Time: 122.5s
+
+--- Communication Round 35/100 ---
+Selected 5 clients for this round.
+Round 35/100 | Avg Client Train Loss: 0.1027 Avg Client Train Acc: 0.9647 | Global Val Loss: 0.1194 Global Val Acc: 0.9510 | Time: 120.6s
+
+--- Communication Round 36/100 ---
+Selected 5 clients for this round.
+Round 36/100 | Avg Client Train Loss: 0.0987 Avg Client Train Acc: 0.9673 | Global Val Loss: 0.1348 Global Val Acc: 0.9492 | Time: 122.7s
+
+--- Communication Round 37/100 ---
+Selected 5 clients for this round.
+Round 37/100 | Avg Client Train Loss: 0.0842 Avg Client Train Acc: 0.9718 | Global Val Loss: 0.1241 Global Val Acc: 0.9580 | Time: 122.3s
+
+--- Communication Round 38/100 ---
+Selected 5 clients for this round.
+Round 38/100 | Avg Client Train Loss: 0.0905 Avg Client Train Acc: 0.9697 | Global Val Loss: 0.1200 Global Val Acc: 0.9562 | Time: 120.6s
+
+--- Communication Round 39/100 ---
+Selected 5 clients for this round.
+Round 39/100 | Avg Client Train Loss: 0.0883 Avg Client Train Acc: 0.9706 | Global Val Loss: 0.1198 Global Val Acc: 0.9597 | Time: 114.7s
+
+--- Communication Round 40/100 ---
+Selected 5 clients for this round.
+Round 40/100 | Avg Client Train Loss: 0.0951 Avg Client Train Acc: 0.9685 | Global Val Loss: 0.1282 Global Val Acc: 0.9510 | Time: 117.0s
+
+--- Communication Round 41/100 ---
+Selected 5 clients for this round.
+Round 41/100 | Avg Client Train Loss: 0.0972 Avg Client Train Acc: 0.9682 | Global Val Loss: 0.1178 Global Val Acc: 0.9580 | Time: 122.5s
+
+--- Communication Round 42/100 ---
+Selected 5 clients for this round.
+Round 42/100 | Avg Client Train Loss: 0.0811 Avg Client Train Acc: 0.9726 | Global Val Loss: 0.1005 Global Val Acc: 0.9650 | Time: 116.3s
+
+--- Communication Round 43/100 ---
+Selected 5 clients for this round.
+Round 43/100 | Avg Client Train Loss: 0.0743 Avg Client Train Acc: 0.9752 | Global Val Loss: 0.1464 Global Val Acc: 0.9527 | Time: 117.1s
+
+--- Communication Round 44/100 ---
+Selected 5 clients for this round.
+Round 44/100 | Avg Client Train Loss: 0.0734 Avg Client Train Acc: 0.9756 | Global Val Loss: 0.1074 Global Val Acc: 0.9632 | Time: 120.0s
+
+--- Communication Round 45/100 ---
+Selected 5 clients for this round.
+Round 45/100 | Avg Client Train Loss: 0.0771 Avg Client Train Acc: 0.9743 | Global Val Loss: 0.1437 Global Val Acc: 0.9545 | Time: 118.5s
+
+--- Communication Round 46/100 ---
+Selected 5 clients for this round.
+Round 46/100 | Avg Client Train Loss: 0.0850 Avg Client Train Acc: 0.9710 | Global Val Loss: 0.1026 Global Val Acc: 0.9632 | Time: 119.0s
+
+--- Communication Round 47/100 ---
+Selected 5 clients for this round.
+Round 47/100 | Avg Client Train Loss: 0.0806 Avg Client Train Acc: 0.9739 | Global Val Loss: 0.0986 Global Val Acc: 0.9685 | Time: 116.2s
+
+--- Communication Round 48/100 ---
+Selected 5 clients for this round.
+Round 48/100 | Avg Client Train Loss: 0.0677 Avg Client Train Acc: 0.9766 | Global Val Loss: 0.1079 Global Val Acc: 0.9615 | Time: 114.5s
+
+--- Communication Round 49/100 ---
+Selected 5 clients for this round.
+Round 49/100 | Avg Client Train Loss: 0.0790 Avg Client Train Acc: 0.9741 | Global Val Loss: 0.1249 Global Val Acc: 0.9597 | Time: 124.0s
+
+--- Communication Round 50/100 ---
+Selected 5 clients for this round.
+Round 50/100 | Avg Client Train Loss: 0.0735 Avg Client Train Acc: 0.9744 | Global Val Loss: 0.1101 Global Val Acc: 0.9685 | Time: 113.1s
+
+--- Communication Round 51/100 ---
+Selected 5 clients for this round.
+Round 51/100 | Avg Client Train Loss: 0.0706 Avg Client Train Acc: 0.9754 | Global Val Loss: 0.1286 Global Val Acc: 0.9615 | Time: 120.1s
+
+--- Communication Round 52/100 ---
+Selected 5 clients for this round.
+Round 52/100 | Avg Client Train Loss: 0.0693 Avg Client Train Acc: 0.9773 | Global Val Loss: 0.1277 Global Val Acc: 0.9597 | Time: 119.8s
+
+--- Communication Round 53/100 ---
+Selected 5 clients for this round.
+Round 53/100 | Avg Client Train Loss: 0.0849 Avg Client Train Acc: 0.9717 | Global Val Loss: 0.0842 Global Val Acc: 0.9685 | Time: 117.4s
+
+--- Communication Round 54/100 ---
+Selected 5 clients for this round.
+Round 54/100 | Avg Client Train Loss: 0.0722 Avg Client Train Acc: 0.9768 | Global Val Loss: 0.1049 Global Val Acc: 0.9632 | Time: 119.3s
+
+--- Communication Round 55/100 ---
+Selected 5 clients for this round.
+Round 55/100 | Avg Client Train Loss: 0.0537 Avg Client Train Acc: 0.9827 | Global Val Loss: 0.0934 Global Val Acc: 0.9632 | Time: 120.6s
+
+--- Communication Round 56/100 ---
+Selected 5 clients for this round.
+Round 56/100 | Avg Client Train Loss: 0.0565 Avg Client Train Acc: 0.9813 | Global Val Loss: 0.1005 Global Val Acc: 0.9685 | Time: 114.1s
+
+--- Communication Round 57/100 ---
+Selected 5 clients for this round.
+Round 57/100 | Avg Client Train Loss: 0.0661 Avg Client Train Acc: 0.9790 | Global Val Loss: 0.0990 Global Val Acc: 0.9667 | Time: 115.9s
+
+--- Communication Round 58/100 ---
+Selected 5 clients for this round.
+Round 58/100 | Avg Client Train Loss: 0.0761 Avg Client Train Acc: 0.9762 | Global Val Loss: 0.1020 Global Val Acc: 0.9720 | Time: 120.0s
+
+--- Communication Round 59/100 ---
+Selected 5 clients for this round.
+Round 59/100 | Avg Client Train Loss: 0.0678 Avg Client Train Acc: 0.9767 | Global Val Loss: 0.0991 Global Val Acc: 0.9597 | Time: 116.8s
+
+--- Communication Round 60/100 ---
+Selected 5 clients for this round.
+Round 60/100 | Avg Client Train Loss: 0.0840 Avg Client Train Acc: 0.9721 | Global Val Loss: 0.1017 Global Val Acc: 0.9650 | Time: 115.2s
+
+--- Communication Round 61/100 ---
+Selected 5 clients for this round.
+Round 61/100 | Avg Client Train Loss: 0.0723 Avg Client Train Acc: 0.9767 | Global Val Loss: 0.1233 Global Val Acc: 0.9580 | Time: 118.3s
+
+--- Communication Round 62/100 ---
+Selected 5 clients for this round.
+Round 62/100 | Avg Client Train Loss: 0.0662 Avg Client Train Acc: 0.9791 | Global Val Loss: 0.1000 Global Val Acc: 0.9720 | Time: 117.2s
+
+--- Communication Round 63/100 ---
+Selected 5 clients for this round.
+Round 63/100 | Avg Client Train Loss: 0.0561 Avg Client Train Acc: 0.9814 | Global Val Loss: 0.0933 Global Val Acc: 0.9667 | Time: 114.0s
+
+--- Communication Round 64/100 ---
+Selected 5 clients for this round.
+Round 64/100 | Avg Client Train Loss: 0.0649 Avg Client Train Acc: 0.9790 | Global Val Loss: 0.1155 Global Val Acc: 0.9580 | Time: 118.1s
+
+--- Communication Round 65/100 ---
+Selected 5 clients for this round.
+Round 65/100 | Avg Client Train Loss: 0.0558 Avg Client Train Acc: 0.9814 | Global Val Loss: 0.1010 Global Val Acc: 0.9667 | Time: 117.3s
+
+--- Communication Round 66/100 ---
+Selected 5 clients for this round.
+Round 66/100 | Avg Client Train Loss: 0.0660 Avg Client Train Acc: 0.9784 | Global Val Loss: 0.1008 Global Val Acc: 0.9597 | Time: 117.3s
+
+--- Communication Round 67/100 ---
+Selected 5 clients for this round.
+Round 67/100 | Avg Client Train Loss: 0.0679 Avg Client Train Acc: 0.9776 | Global Val Loss: 0.1202 Global Val Acc: 0.9562 | Time: 117.5s
+
+--- Communication Round 68/100 ---
+Selected 5 clients for this round.
+Round 68/100 | Avg Client Train Loss: 0.0685 Avg Client Train Acc: 0.9777 | Global Val Loss: 0.1211 Global Val Acc: 0.9650 | Time: 117.0s
+
+--- Communication Round 69/100 ---
+Selected 5 clients for this round.
+Round 69/100 | Avg Client Train Loss: 0.0691 Avg Client Train Acc: 0.9770 | Global Val Loss: 0.1143 Global Val Acc: 0.9702 | Time: 118.0s
+
+--- Communication Round 70/100 ---
+Selected 5 clients for this round.
+Round 70/100 | Avg Client Train Loss: 0.0603 Avg Client Train Acc: 0.9811 | Global Val Loss: 0.1310 Global Val Acc: 0.9580 | Time: 119.5s
+
+--- Communication Round 71/100 ---
+Selected 5 clients for this round.
+Round 71/100 | Avg Client Train Loss: 0.0561 Avg Client Train Acc: 0.9814 | Global Val Loss: 0.1094 Global Val Acc: 0.9615 | Time: 117.2s
+
+--- Communication Round 72/100 ---
+Selected 5 clients for this round.
+Round 72/100 | Avg Client Train Loss: 0.0541 Avg Client Train Acc: 0.9821 | Global Val Loss: 0.0956 Global Val Acc: 0.9720 | Time: 119.1s
+
+--- Communication Round 73/100 ---
+Selected 5 clients for this round.
+Round 73/100 | Avg Client Train Loss: 0.0527 Avg Client Train Acc: 0.9824 | Global Val Loss: 0.0845 Global Val Acc: 0.9702 | Time: 118.0s
+
+--- Communication Round 74/100 ---
+Selected 5 clients for this round.
+Round 74/100 | Avg Client Train Loss: 0.0467 Avg Client Train Acc: 0.9850 | Global Val Loss: 0.1057 Global Val Acc: 0.9720 | Time: 121.1s
+
+--- Communication Round 75/100 ---
+Selected 5 clients for this round.
+Round 75/100 | Avg Client Train Loss: 0.0615 Avg Client Train Acc: 0.9795 | Global Val Loss: 0.1116 Global Val Acc: 0.9650 | Time: 117.5s
+
+--- Communication Round 76/100 ---
+Selected 5 clients for this round.
+Round 76/100 | Avg Client Train Loss: 0.0589 Avg Client Train Acc: 0.9811 | Global Val Loss: 0.1115 Global Val Acc: 0.9720 | Time: 118.2s
+
+--- Communication Round 77/100 ---
+Selected 5 clients for this round.
+Round 77/100 | Avg Client Train Loss: 0.0490 Avg Client Train Acc: 0.9847 | Global Val Loss: 0.0980 Global Val Acc: 0.9650 | Time: 115.8s
+
+--- Communication Round 78/100 ---
+Selected 5 clients for this round.
+Round 78/100 | Avg Client Train Loss: 0.0462 Avg Client Train Acc: 0.9850 | Global Val Loss: 0.0991 Global Val Acc: 0.9737 | Time: 117.8s
+
+--- Communication Round 79/100 ---
+Selected 5 clients for this round.
+Round 79/100 | Avg Client Train Loss: 0.0455 Avg Client Train Acc: 0.9855 | Global Val Loss: 0.0739 Global Val Acc: 0.9790 | Time: 121.0s
+
+--- Communication Round 80/100 ---
+Selected 5 clients for this round.
+Round 80/100 | Avg Client Train Loss: 0.0592 Avg Client Train Acc: 0.9805 | Global Val Loss: 0.1032 Global Val Acc: 0.9650 | Time: 114.6s
+
+--- Communication Round 81/100 ---
+Selected 5 clients for this round.
+Round 81/100 | Avg Client Train Loss: 0.0551 Avg Client Train Acc: 0.9816 | Global Val Loss: 0.1038 Global Val Acc: 0.9650 | Time: 119.0s
+
+--- Communication Round 82/100 ---
+Selected 5 clients for this round.
+Round 82/100 | Avg Client Train Loss: 0.0519 Avg Client Train Acc: 0.9829 | Global Val Loss: 0.1073 Global Val Acc: 0.9685 | Time: 116.5s
+
+--- Communication Round 83/100 ---
+Selected 5 clients for this round.
+Round 83/100 | Avg Client Train Loss: 0.0564 Avg Client Train Acc: 0.9810 | Global Val Loss: 0.1013 Global Val Acc: 0.9632 | Time: 115.8s
+
+--- Communication Round 84/100 ---
+Selected 5 clients for this round.
+Round 84/100 | Avg Client Train Loss: 0.0567 Avg Client Train Acc: 0.9818 | Global Val Loss: 0.0900 Global Val Acc: 0.9772 | Time: 116.5s
+
+--- Communication Round 85/100 ---
+Selected 5 clients for this round.
+Round 85/100 | Avg Client Train Loss: 0.0544 Avg Client Train Acc: 0.9819 | Global Val Loss: 0.0879 Global Val Acc: 0.9772 | Time: 116.4s
+
+--- Communication Round 86/100 ---
+Selected 5 clients for this round.
+Round 86/100 | Avg Client Train Loss: 0.0534 Avg Client Train Acc: 0.9837 | Global Val Loss: 0.0927 Global Val Acc: 0.9632 | Time: 121.1s
+
+--- Communication Round 87/100 ---
+Selected 5 clients for this round.
+Round 87/100 | Avg Client Train Loss: 0.0460 Avg Client Train Acc: 0.9856 | Global Val Loss: 0.1016 Global Val Acc: 0.9702 | Time: 115.5s
+
+--- Communication Round 88/100 ---
+Selected 5 clients for this round.
+Round 88/100 | Avg Client Train Loss: 0.0540 Avg Client Train Acc: 0.9826 | Global Val Loss: 0.0970 Global Val Acc: 0.9615 | Time: 121.1s
+
+--- Communication Round 89/100 ---
+Selected 5 clients for this round.
+Round 89/100 | Avg Client Train Loss: 0.0544 Avg Client Train Acc: 0.9823 | Global Val Loss: 0.1034 Global Val Acc: 0.9720 | Time: 117.3s
+
+--- Communication Round 90/100 ---
+Selected 5 clients for this round.
+Round 90/100 | Avg Client Train Loss: 0.0548 Avg Client Train Acc: 0.9828 | Global Val Loss: 0.1070 Global Val Acc: 0.9615 | Time: 115.0s
+
+--- Communication Round 91/100 ---
+Selected 5 clients for this round.
+Round 91/100 | Avg Client Train Loss: 0.0478 Avg Client Train Acc: 0.9842 | Global Val Loss: 0.1372 Global Val Acc: 0.9685 | Time: 122.5s
+
+--- Communication Round 92/100 ---
+Selected 5 clients for this round.
+Round 92/100 | Avg Client Train Loss: 0.0555 Avg Client Train Acc: 0.9817 | Global Val Loss: 0.1157 Global Val Acc: 0.9510 | Time: 116.2s
+
+--- Communication Round 93/100 ---
+Selected 5 clients for this round.
+Round 93/100 | Avg Client Train Loss: 0.0579 Avg Client Train Acc: 0.9819 | Global Val Loss: 0.1084 Global Val Acc: 0.9667 | Time: 119.6s
+
+--- Communication Round 94/100 ---
+Selected 5 clients for this round.
+Round 94/100 | Avg Client Train Loss: 0.0358 Avg Client Train Acc: 0.9885 | Global Val Loss: 0.1036 Global Val Acc: 0.9720 | Time: 118.4s
+
+--- Communication Round 95/100 ---
+Selected 5 clients for this round.
+Round 95/100 | Avg Client Train Loss: 0.0441 Avg Client Train Acc: 0.9856 | Global Val Loss: 0.0977 Global Val Acc: 0.9702 | Time: 114.3s
+
+--- Communication Round 96/100 ---
+Selected 5 clients for this round.
+Round 96/100 | Avg Client Train Loss: 0.0539 Avg Client Train Acc: 0.9825 | Global Val Loss: 0.1324 Global Val Acc: 0.9650 | Time: 117.0s
+
+--- Communication Round 97/100 ---
+Selected 5 clients for this round.
+Round 97/100 | Avg Client Train Loss: 0.0466 Avg Client Train Acc: 0.9857 | Global Val Loss: 0.0871 Global Val Acc: 0.9790 | Time: 115.8s
+
+--- Communication Round 98/100 ---
+Selected 5 clients for this round.
+Round 98/100 | Avg Client Train Loss: 0.0573 Avg Client Train Acc: 0.9825 | Global Val Loss: 0.0869 Global Val Acc: 0.9772 | Time: 115.6s
+
+--- Communication Round 99/100 ---
+Selected 5 clients for this round.
+Round 99/100 | Avg Client Train Loss: 0.0451 Avg Client Train Acc: 0.9853 | Global Val Loss: 0.0831 Global Val Acc: 0.9737 | Time: 110.8s
+
+--- Communication Round 100/100 ---
+Selected 5 clients for this round.
+Round 100/100 | Avg Client Train Loss: 0.0499 Avg Client Train Acc: 0.9840 | Global Val Loss: 0.0893 Global Val Acc: 0.9755 | Time: 116.5s
+
+================================================================================
+Starting Federated Training for model: SimpleDenseNetLike
+================================================================================
+
+--- Communication Round 1/100 ---
+Selected 5 clients for this round.
+Round 1/100 | Avg Client Train Loss: 0.8561 Avg Client Train Acc: 0.6469 | Global Val Loss: 1.3623 Global Val Acc: 0.5271 | Time: 117.2s
+
+--- Communication Round 2/100 ---
+Selected 5 clients for this round.
+Round 2/100 | Avg Client Train Loss: 0.7616 Avg Client Train Acc: 0.6919 | Global Val Loss: 1.6423 Global Val Acc: 0.4308 | Time: 113.5s
+
+--- Communication Round 3/100 ---
+Selected 5 clients for this round.
+Round 3/100 | Avg Client Train Loss: 0.6811 Avg Client Train Acc: 0.7246 | Global Val Loss: 0.8683 Global Val Acc: 0.6532 | Time: 120.4s
+
+--- Communication Round 4/100 ---
+Selected 5 clients for this round.
+Round 4/100 | Avg Client Train Loss: 0.6726 Avg Client Train Acc: 0.7309 | Global Val Loss: 1.4094 Global Val Acc: 0.5044 | Time: 117.1s
+
+--- Communication Round 5/100 ---
+Selected 5 clients for this round.
+Round 5/100 | Avg Client Train Loss: 0.6500 Avg Client Train Acc: 0.7344 | Global Val Loss: 0.7497 Global Val Acc: 0.7145 | Time: 119.1s
+
+--- Communication Round 6/100 ---
+Selected 5 clients for this round.
+Round 6/100 | Avg Client Train Loss: 0.6217 Avg Client Train Acc: 0.7461 | Global Val Loss: 0.5925 Global Val Acc: 0.7391 | Time: 122.5s
+
+--- Communication Round 7/100 ---
+Selected 5 clients for this round.
+Round 7/100 | Avg Client Train Loss: 0.5994 Avg Client Train Acc: 0.7556 | Global Val Loss: 1.1523 Global Val Acc: 0.5744 | Time: 117.8s
+
+--- Communication Round 8/100 ---
+Selected 5 clients for this round.
+Round 8/100 | Avg Client Train Loss: 0.5605 Avg Client Train Acc: 0.7729 | Global Val Loss: 0.8344 Global Val Acc: 0.6567 | Time: 119.4s
+
+--- Communication Round 9/100 ---
+Selected 5 clients for this round.
+Round 9/100 | Avg Client Train Loss: 0.5707 Avg Client Train Acc: 0.7753 | Global Val Loss: 0.8318 Global Val Acc: 0.6690 | Time: 118.8s
+
+--- Communication Round 10/100 ---
+Selected 5 clients for this round.
+Round 10/100 | Avg Client Train Loss: 0.5305 Avg Client Train Acc: 0.7874 | Global Val Loss: 0.5678 Global Val Acc: 0.7933 | Time: 118.3s
+
+--- Communication Round 11/100 ---
+Selected 5 clients for this round.
+Round 11/100 | Avg Client Train Loss: 0.5350 Avg Client Train Acc: 0.7895 | Global Val Loss: 0.5205 Global Val Acc: 0.7968 | Time: 121.4s
+
+--- Communication Round 12/100 ---
+Selected 5 clients for this round.
+Round 12/100 | Avg Client Train Loss: 0.4940 Avg Client Train Acc: 0.8095 | Global Val Loss: 0.5028 Global Val Acc: 0.7951 | Time: 119.7s
+
+--- Communication Round 13/100 ---
+Selected 5 clients for this round.
+Round 13/100 | Avg Client Train Loss: 0.4512 Avg Client Train Acc: 0.8211 | Global Val Loss: 0.4742 Global Val Acc: 0.8039 | Time: 115.7s
+
+--- Communication Round 14/100 ---
+Selected 5 clients for this round.
+Round 14/100 | Avg Client Train Loss: 0.4746 Avg Client Train Acc: 0.8205 | Global Val Loss: 0.5023 Global Val Acc: 0.8021 | Time: 123.4s
+
+--- Communication Round 15/100 ---
+Selected 5 clients for this round.
+Round 15/100 | Avg Client Train Loss: 0.4495 Avg Client Train Acc: 0.8262 | Global Val Loss: 0.5121 Global Val Acc: 0.7916 | Time: 119.3s
+
+--- Communication Round 16/100 ---
+Selected 5 clients for this round.
+Round 16/100 | Avg Client Train Loss: 0.4423 Avg Client Train Acc: 0.8305 | Global Val Loss: 0.5535 Global Val Acc: 0.7898 | Time: 123.8s
+
+--- Communication Round 17/100 ---
+Selected 5 clients for this round.
+Round 17/100 | Avg Client Train Loss: 0.4162 Avg Client Train Acc: 0.8440 | Global Val Loss: 0.4145 Global Val Acc: 0.8424 | Time: 128.0s
+
+--- Communication Round 18/100 ---
+Selected 5 clients for this round.
+Round 18/100 | Avg Client Train Loss: 0.4276 Avg Client Train Acc: 0.8411 | Global Val Loss: 0.3909 Global Val Acc: 0.8546 | Time: 119.4s
+
+--- Communication Round 19/100 ---
+Selected 5 clients for this round.
+Round 19/100 | Avg Client Train Loss: 0.3904 Avg Client Train Acc: 0.8523 | Global Val Loss: 0.4147 Global Val Acc: 0.8511 | Time: 124.2s
+
+--- Communication Round 20/100 ---
+Selected 5 clients for this round.
+Round 20/100 | Avg Client Train Loss: 0.3829 Avg Client Train Acc: 0.8583 | Global Val Loss: 0.4019 Global Val Acc: 0.8441 | Time: 118.7s
+
+--- Communication Round 21/100 ---
+Selected 5 clients for this round.
+Round 21/100 | Avg Client Train Loss: 0.3718 Avg Client Train Acc: 0.8665 | Global Val Loss: 0.3603 Global Val Acc: 0.8599 | Time: 114.2s
+
+--- Communication Round 22/100 ---
+Selected 5 clients for this round.
+Round 22/100 | Avg Client Train Loss: 0.3684 Avg Client Train Acc: 0.8644 | Global Val Loss: 0.3464 Global Val Acc: 0.8687 | Time: 119.7s
+
+--- Communication Round 23/100 ---
+Selected 5 clients for this round.
+Round 23/100 | Avg Client Train Loss: 0.3442 Avg Client Train Acc: 0.8713 | Global Val Loss: 0.3439 Global Val Acc: 0.8704 | Time: 117.0s
+
+--- Communication Round 24/100 ---
+Selected 5 clients for this round.
+Round 24/100 | Avg Client Train Loss: 0.3587 Avg Client Train Acc: 0.8688 | Global Val Loss: 0.4360 Global Val Acc: 0.8354 | Time: 120.4s
+
+--- Communication Round 25/100 ---
+Selected 5 clients for this round.
+Round 25/100 | Avg Client Train Loss: 0.3295 Avg Client Train Acc: 0.8786 | Global Val Loss: 0.3078 Global Val Acc: 0.8862 | Time: 119.5s
+
+--- Communication Round 26/100 ---
+Selected 5 clients for this round.
+Round 26/100 | Avg Client Train Loss: 0.3134 Avg Client Train Acc: 0.8857 | Global Val Loss: 0.5888 Global Val Acc: 0.7741 | Time: 122.7s
+
+--- Communication Round 27/100 ---
+Selected 5 clients for this round.
+Round 27/100 | Avg Client Train Loss: 0.3125 Avg Client Train Acc: 0.8864 | Global Val Loss: 0.3797 Global Val Acc: 0.8546 | Time: 117.6s
+
+--- Communication Round 28/100 ---
+Selected 5 clients for this round.
+Round 28/100 | Avg Client Train Loss: 0.3186 Avg Client Train Acc: 0.8841 | Global Val Loss: 0.3914 Global Val Acc: 0.8494 | Time: 119.7s
+
+--- Communication Round 29/100 ---
+Selected 5 clients for this round.
+Round 29/100 | Avg Client Train Loss: 0.2950 Avg Client Train Acc: 0.8889 | Global Val Loss: 0.3072 Global Val Acc: 0.8862 | Time: 118.9s
+
+--- Communication Round 30/100 ---
+Selected 5 clients for this round.
+Round 30/100 | Avg Client Train Loss: 0.2845 Avg Client Train Acc: 0.8971 | Global Val Loss: 0.3474 Global Val Acc: 0.8739 | Time: 117.8s
+
+--- Communication Round 31/100 ---
+Selected 5 clients for this round.
+Round 31/100 | Avg Client Train Loss: 0.2852 Avg Client Train Acc: 0.8947 | Global Val Loss: 0.2844 Global Val Acc: 0.8932 | Time: 120.4s
+
+--- Communication Round 32/100 ---
+Selected 5 clients for this round.
+Round 32/100 | Avg Client Train Loss: 0.2614 Avg Client Train Acc: 0.9035 | Global Val Loss: 0.3185 Global Val Acc: 0.8792 | Time: 112.9s
+
+--- Communication Round 33/100 ---
+Selected 5 clients for this round.
+Round 33/100 | Avg Client Train Loss: 0.2664 Avg Client Train Acc: 0.9015 | Global Val Loss: 0.2265 Global Val Acc: 0.9124 | Time: 124.3s
+
+--- Communication Round 34/100 ---
+Selected 5 clients for this round.
+Round 34/100 | Avg Client Train Loss: 0.2521 Avg Client Train Acc: 0.9097 | Global Val Loss: 0.3110 Global Val Acc: 0.8827 | Time: 121.8s
+
+--- Communication Round 35/100 ---
+Selected 5 clients for this round.
+Round 35/100 | Avg Client Train Loss: 0.2702 Avg Client Train Acc: 0.9039 | Global Val Loss: 0.2756 Global Val Acc: 0.8984 | Time: 124.9s
+
+--- Communication Round 36/100 ---
+Selected 5 clients for this round.
+Round 36/100 | Avg Client Train Loss: 0.2590 Avg Client Train Acc: 0.9060 | Global Val Loss: 0.2362 Global Val Acc: 0.9194 | Time: 124.6s
+
+--- Communication Round 37/100 ---
+Selected 5 clients for this round.
+Round 37/100 | Avg Client Train Loss: 0.2436 Avg Client Train Acc: 0.9103 | Global Val Loss: 0.2714 Global Val Acc: 0.9037 | Time: 122.6s
+
+--- Communication Round 38/100 ---
+Selected 5 clients for this round.
+Round 38/100 | Avg Client Train Loss: 0.2277 Avg Client Train Acc: 0.9160 | Global Val Loss: 0.2440 Global Val Acc: 0.9229 | Time: 123.4s
+
+--- Communication Round 39/100 ---
+Selected 5 clients for this round.
+Round 39/100 | Avg Client Train Loss: 0.2465 Avg Client Train Acc: 0.9115 | Global Val Loss: 0.2816 Global Val Acc: 0.9002 | Time: 120.8s
+
+--- Communication Round 40/100 ---
+Selected 5 clients for this round.
+Round 40/100 | Avg Client Train Loss: 0.2272 Avg Client Train Acc: 0.9190 | Global Val Loss: 0.2476 Global Val Acc: 0.9142 | Time: 120.2s
+
+--- Communication Round 41/100 ---
+Selected 5 clients for this round.
+Round 41/100 | Avg Client Train Loss: 0.2191 Avg Client Train Acc: 0.9214 | Global Val Loss: 0.1938 Global Val Acc: 0.9299 | Time: 119.1s
+
+--- Communication Round 42/100 ---
+Selected 5 clients for this round.
+Round 42/100 | Avg Client Train Loss: 0.2267 Avg Client Train Acc: 0.9186 | Global Val Loss: 0.2235 Global Val Acc: 0.9229 | Time: 127.8s
+
+--- Communication Round 43/100 ---
+Selected 5 clients for this round.
+Round 43/100 | Avg Client Train Loss: 0.2076 Avg Client Train Acc: 0.9265 | Global Val Loss: 0.2172 Global Val Acc: 0.9264 | Time: 129.1s
+
+--- Communication Round 44/100 ---
+Selected 5 clients for this round.
+Round 44/100 | Avg Client Train Loss: 0.2162 Avg Client Train Acc: 0.9219 | Global Val Loss: 0.2375 Global Val Acc: 0.9107 | Time: 124.2s
+
+--- Communication Round 45/100 ---
+Selected 5 clients for this round.
+Round 45/100 | Avg Client Train Loss: 0.2123 Avg Client Train Acc: 0.9237 | Global Val Loss: 0.2915 Global Val Acc: 0.8844 | Time: 119.6s
+
+--- Communication Round 46/100 ---
+Selected 5 clients for this round.
+Round 46/100 | Avg Client Train Loss: 0.2158 Avg Client Train Acc: 0.9230 | Global Val Loss: 0.2278 Global Val Acc: 0.9229 | Time: 118.6s
+
+--- Communication Round 47/100 ---
+Selected 5 clients for this round.
+Round 47/100 | Avg Client Train Loss: 0.2046 Avg Client Train Acc: 0.9237 | Global Val Loss: 0.1863 Global Val Acc: 0.9317 | Time: 113.3s
+
+--- Communication Round 48/100 ---
+Selected 5 clients for this round.
+Round 48/100 | Avg Client Train Loss: 0.2027 Avg Client Train Acc: 0.9267 | Global Val Loss: 0.2116 Global Val Acc: 0.9335 | Time: 122.2s
+
+--- Communication Round 49/100 ---
+Selected 5 clients for this round.
+Round 49/100 | Avg Client Train Loss: 0.1995 Avg Client Train Acc: 0.9256 | Global Val Loss: 0.1750 Global Val Acc: 0.9370 | Time: 120.3s
+
+--- Communication Round 50/100 ---
+Selected 5 clients for this round.
+Round 50/100 | Avg Client Train Loss: 0.2053 Avg Client Train Acc: 0.9257 | Global Val Loss: 0.1814 Global Val Acc: 0.9352 | Time: 119.3s
+
+--- Communication Round 51/100 ---
+Selected 5 clients for this round.
+Round 51/100 | Avg Client Train Loss: 0.1663 Avg Client Train Acc: 0.9387 | Global Val Loss: 0.1705 Global Val Acc: 0.9370 | Time: 121.0s
+
+--- Communication Round 52/100 ---
+Selected 5 clients for this round.
+Round 52/100 | Avg Client Train Loss: 0.2044 Avg Client Train Acc: 0.9287 | Global Val Loss: 0.2131 Global Val Acc: 0.9194 | Time: 115.2s
+
+--- Communication Round 53/100 ---
+Selected 5 clients for this round.
+Round 53/100 | Avg Client Train Loss: 0.1841 Avg Client Train Acc: 0.9314 | Global Val Loss: 0.1875 Global Val Acc: 0.9422 | Time: 121.3s
+
+--- Communication Round 54/100 ---
+Selected 5 clients for this round.
+Round 54/100 | Avg Client Train Loss: 0.1735 Avg Client Train Acc: 0.9392 | Global Val Loss: 0.1591 Global Val Acc: 0.9527 | Time: 115.7s
+
+--- Communication Round 55/100 ---
+Selected 5 clients for this round.
+Round 55/100 | Avg Client Train Loss: 0.1855 Avg Client Train Acc: 0.9333 | Global Val Loss: 0.1613 Global Val Acc: 0.9317 | Time: 120.4s
+
+--- Communication Round 56/100 ---
+Selected 5 clients for this round.
+Round 56/100 | Avg Client Train Loss: 0.1668 Avg Client Train Acc: 0.9396 | Global Val Loss: 0.1442 Global Val Acc: 0.9440 | Time: 118.1s
+
+--- Communication Round 57/100 ---
+Selected 5 clients for this round.
+Round 57/100 | Avg Client Train Loss: 0.1578 Avg Client Train Acc: 0.9434 | Global Val Loss: 0.1724 Global Val Acc: 0.9370 | Time: 122.7s
+
+--- Communication Round 58/100 ---
+Selected 5 clients for this round.
+Round 58/100 | Avg Client Train Loss: 0.1814 Avg Client Train Acc: 0.9354 | Global Val Loss: 0.1769 Global Val Acc: 0.9387 | Time: 123.4s
+
+--- Communication Round 59/100 ---
+Selected 5 clients for this round.
+Round 59/100 | Avg Client Train Loss: 0.1623 Avg Client Train Acc: 0.9406 | Global Val Loss: 0.1775 Global Val Acc: 0.9387 | Time: 117.6s
+
+--- Communication Round 60/100 ---
+Selected 5 clients for this round.
+Round 60/100 | Avg Client Train Loss: 0.1617 Avg Client Train Acc: 0.9425 | Global Val Loss: 0.2088 Global Val Acc: 0.9177 | Time: 120.9s
+
+--- Communication Round 61/100 ---
+Selected 5 clients for this round.
+Round 61/100 | Avg Client Train Loss: 0.1636 Avg Client Train Acc: 0.9413 | Global Val Loss: 0.1669 Global Val Acc: 0.9317 | Time: 123.4s
+
+--- Communication Round 62/100 ---
+Selected 5 clients for this round.
+Round 62/100 | Avg Client Train Loss: 0.1630 Avg Client Train Acc: 0.9420 | Global Val Loss: 0.1682 Global Val Acc: 0.9370 | Time: 119.1s
+
+--- Communication Round 63/100 ---
+Selected 5 clients for this round.
+Round 63/100 | Avg Client Train Loss: 0.1602 Avg Client Train Acc: 0.9418 | Global Val Loss: 0.1603 Global Val Acc: 0.9440 | Time: 121.7s
+
+--- Communication Round 64/100 ---
+Selected 5 clients for this round.
+Round 64/100 | Avg Client Train Loss: 0.1458 Avg Client Train Acc: 0.9493 | Global Val Loss: 0.1710 Global Val Acc: 0.9352 | Time: 117.2s
+
+--- Communication Round 65/100 ---
+Selected 5 clients for this round.
+Round 65/100 | Avg Client Train Loss: 0.1542 Avg Client Train Acc: 0.9462 | Global Val Loss: 0.1626 Global Val Acc: 0.9422 | Time: 117.3s
+
+--- Communication Round 66/100 ---
+Selected 5 clients for this round.
+Round 66/100 | Avg Client Train Loss: 0.1466 Avg Client Train Acc: 0.9478 | Global Val Loss: 0.2063 Global Val Acc: 0.9299 | Time: 120.5s
+
+--- Communication Round 67/100 ---
+Selected 5 clients for this round.
+Round 67/100 | Avg Client Train Loss: 0.1272 Avg Client Train Acc: 0.9538 | Global Val Loss: 0.1744 Global Val Acc: 0.9475 | Time: 122.4s
+
+--- Communication Round 68/100 ---
+Selected 5 clients for this round.
+Round 68/100 | Avg Client Train Loss: 0.1477 Avg Client Train Acc: 0.9479 | Global Val Loss: 0.1397 Global Val Acc: 0.9492 | Time: 119.8s
+
+--- Communication Round 69/100 ---
+Selected 5 clients for this round.
+Round 69/100 | Avg Client Train Loss: 0.1356 Avg Client Train Acc: 0.9498 | Global Val Loss: 0.1563 Global Val Acc: 0.9510 | Time: 118.4s
+
+--- Communication Round 70/100 ---
+Selected 5 clients for this round.
+Round 70/100 | Avg Client Train Loss: 0.1340 Avg Client Train Acc: 0.9523 | Global Val Loss: 0.1596 Global Val Acc: 0.9370 | Time: 121.7s
+
+--- Communication Round 71/100 ---
+Selected 5 clients for this round.
+Round 71/100 | Avg Client Train Loss: 0.1309 Avg Client Train Acc: 0.9544 | Global Val Loss: 0.1427 Global Val Acc: 0.9475 | Time: 123.4s
+
+--- Communication Round 72/100 ---
+Selected 5 clients for this round.
+Round 72/100 | Avg Client Train Loss: 0.1478 Avg Client Train Acc: 0.9469 | Global Val Loss: 0.1452 Global Val Acc: 0.9475 | Time: 119.2s
+
+--- Communication Round 73/100 ---
+Selected 5 clients for this round.
+Round 73/100 | Avg Client Train Loss: 0.1330 Avg Client Train Acc: 0.9532 | Global Val Loss: 0.1480 Global Val Acc: 0.9422 | Time: 122.1s
+
+--- Communication Round 74/100 ---
+Selected 5 clients for this round.
+Round 74/100 | Avg Client Train Loss: 0.1291 Avg Client Train Acc: 0.9546 | Global Val Loss: 0.1528 Global Val Acc: 0.9562 | Time: 121.2s
+
+--- Communication Round 75/100 ---
+Selected 5 clients for this round.
+Round 75/100 | Avg Client Train Loss: 0.1356 Avg Client Train Acc: 0.9533 | Global Val Loss: 0.1505 Global Val Acc: 0.9545 | Time: 124.1s
+
+--- Communication Round 76/100 ---
+Selected 5 clients for this round.
+Round 76/100 | Avg Client Train Loss: 0.1332 Avg Client Train Acc: 0.9543 | Global Val Loss: 0.1517 Global Val Acc: 0.9457 | Time: 121.9s
+
+--- Communication Round 77/100 ---
+Selected 5 clients for this round.
+Round 77/100 | Avg Client Train Loss: 0.0957 Avg Client Train Acc: 0.9672 | Global Val Loss: 0.1705 Global Val Acc: 0.9475 | Time: 122.6s
+
+--- Communication Round 78/100 ---
+Selected 5 clients for this round.
+Round 78/100 | Avg Client Train Loss: 0.1317 Avg Client Train Acc: 0.9547 | Global Val Loss: 0.1183 Global Val Acc: 0.9545 | Time: 123.1s
+
+--- Communication Round 79/100 ---
+Selected 5 clients for this round.
+Round 79/100 | Avg Client Train Loss: 0.1270 Avg Client Train Acc: 0.9563 | Global Val Loss: 0.1351 Global Val Acc: 0.9475 | Time: 118.6s
+
+--- Communication Round 80/100 ---
+Selected 5 clients for this round.
+Round 80/100 | Avg Client Train Loss: 0.1302 Avg Client Train Acc: 0.9556 | Global Val Loss: 0.1235 Global Val Acc: 0.9562 | Time: 125.7s
+
+--- Communication Round 81/100 ---
+Selected 5 clients for this round.
+Round 81/100 | Avg Client Train Loss: 0.1230 Avg Client Train Acc: 0.9581 | Global Val Loss: 0.1833 Global Val Acc: 0.9440 | Time: 130.2s
+
+--- Communication Round 82/100 ---
+Selected 5 clients for this round.
+Round 82/100 | Avg Client Train Loss: 0.1256 Avg Client Train Acc: 0.9553 | Global Val Loss: 0.1358 Global Val Acc: 0.9597 | Time: 121.0s
+
+--- Communication Round 83/100 ---
+Selected 5 clients for this round.
+Round 83/100 | Avg Client Train Loss: 0.1219 Avg Client Train Acc: 0.9579 | Global Val Loss: 0.1130 Global Val Acc: 0.9562 | Time: 120.6s
+
+--- Communication Round 84/100 ---
+Selected 5 clients for this round.
+Round 84/100 | Avg Client Train Loss: 0.1219 Avg Client Train Acc: 0.9572 | Global Val Loss: 0.1201 Global Val Acc: 0.9632 | Time: 125.3s
+
+--- Communication Round 85/100 ---
+Selected 5 clients for this round.
+Round 85/100 | Avg Client Train Loss: 0.1333 Avg Client Train Acc: 0.9517 | Global Val Loss: 0.1515 Global Val Acc: 0.9475 | Time: 123.8s
+
+--- Communication Round 86/100 ---
+Selected 5 clients for this round.
+Round 86/100 | Avg Client Train Loss: 0.1077 Avg Client Train Acc: 0.9623 | Global Val Loss: 0.1126 Global Val Acc: 0.9580 | Time: 125.0s
+
+--- Communication Round 87/100 ---
+Selected 5 clients for this round.
+Round 87/100 | Avg Client Train Loss: 0.1070 Avg Client Train Acc: 0.9635 | Global Val Loss: 0.0999 Global Val Acc: 0.9720 | Time: 117.6s
+
+--- Communication Round 88/100 ---
+Selected 5 clients for this round.
+Round 88/100 | Avg Client Train Loss: 0.1048 Avg Client Train Acc: 0.9637 | Global Val Loss: 0.1332 Global Val Acc: 0.9650 | Time: 120.8s
+
+--- Communication Round 89/100 ---
+Selected 5 clients for this round.
+Round 89/100 | Avg Client Train Loss: 0.1096 Avg Client Train Acc: 0.9619 | Global Val Loss: 0.1314 Global Val Acc: 0.9527 | Time: 124.4s
+
+--- Communication Round 90/100 ---
+Selected 5 clients for this round.
+Round 90/100 | Avg Client Train Loss: 0.1136 Avg Client Train Acc: 0.9611 | Global Val Loss: 0.1334 Global Val Acc: 0.9527 | Time: 123.2s
+
+--- Communication Round 91/100 ---
+Selected 5 clients for this round.
+Round 91/100 | Avg Client Train Loss: 0.1227 Avg Client Train Acc: 0.9569 | Global Val Loss: 0.1652 Global Val Acc: 0.9440 | Time: 122.1s
+
+--- Communication Round 92/100 ---
+Selected 5 clients for this round.
+Round 92/100 | Avg Client Train Loss: 0.0961 Avg Client Train Acc: 0.9659 | Global Val Loss: 0.1299 Global Val Acc: 0.9562 | Time: 130.5s
+
+--- Communication Round 93/100 ---
+Selected 5 clients for this round.
+Round 93/100 | Avg Client Train Loss: 0.1210 Avg Client Train Acc: 0.9568 | Global Val Loss: 0.1214 Global Val Acc: 0.9667 | Time: 123.7s
+
+--- Communication Round 94/100 ---
+Selected 5 clients for this round.
+Round 94/100 | Avg Client Train Loss: 0.1107 Avg Client Train Acc: 0.9618 | Global Val Loss: 0.1216 Global Val Acc: 0.9597 | Time: 123.2s
+
+--- Communication Round 95/100 ---
+Selected 5 clients for this round.
+Round 95/100 | Avg Client Train Loss: 0.1023 Avg Client Train Acc: 0.9658 | Global Val Loss: 0.0990 Global Val Acc: 0.9597 | Time: 122.1s
+
+--- Communication Round 96/100 ---
+Selected 5 clients for this round.
+Round 96/100 | Avg Client Train Loss: 0.1144 Avg Client Train Acc: 0.9609 | Global Val Loss: 0.1419 Global Val Acc: 0.9545 | Time: 129.4s
+
+--- Communication Round 97/100 ---
+Selected 5 clients for this round.
+Round 97/100 | Avg Client Train Loss: 0.1016 Avg Client Train Acc: 0.9661 | Global Val Loss: 0.0955 Global Val Acc: 0.9720 | Time: 129.7s
+
+--- Communication Round 98/100 ---
+Selected 5 clients for this round.
+Round 98/100 | Avg Client Train Loss: 0.1016 Avg Client Train Acc: 0.9647 | Global Val Loss: 0.1203 Global Val Acc: 0.9615 | Time: 125.7s
+
+--- Communication Round 99/100 ---
+Selected 5 clients for this round.
+Round 99/100 | Avg Client Train Loss: 0.0943 Avg Client Train Acc: 0.9672 | Global Val Loss: 0.1394 Global Val Acc: 0.9580 | Time: 129.9s
+
+--- Communication Round 100/100 ---
+Selected 5 clients for this round.
+Round 100/100 | Avg Client Train Loss: 0.0938 Avg Client Train Acc: 0.9665 | Global Val Loss: 0.1196 Global Val Acc: 0.9685 | Time: 126.0s
+
+================================================================================
+Starting Federated Training for model: MobileNetLite
+================================================================================
+
+--- Communication Round 1/100 ---
+Selected 5 clients for this round.
+Round 1/100 | Avg Client Train Loss: 0.6764 Avg Client Train Acc: 0.7273 | Global Val Loss: 2.7193 Global Val Acc: 0.2662 | Time: 132.2s
+
+--- Communication Round 2/100 ---
+Selected 5 clients for this round.
+Round 2/100 | Avg Client Train Loss: 0.5150 Avg Client Train Acc: 0.8009 | Global Val Loss: 1.1812 Global Val Acc: 0.6112 | Time: 125.8s
+
+--- Communication Round 3/100 ---
+Selected 5 clients for this round.
+Round 3/100 | Avg Client Train Loss: 0.3906 Avg Client Train Acc: 0.8517 | Global Val Loss: 0.8258 Global Val Acc: 0.7338 | Time: 124.2s
+
+--- Communication Round 4/100 ---
+Selected 5 clients for this round.
+Round 4/100 | Avg Client Train Loss: 0.3158 Avg Client Train Acc: 0.8855 | Global Val Loss: 0.5472 Global Val Acc: 0.8056 | Time: 126.5s
+
+--- Communication Round 5/100 ---
+Selected 5 clients for this round.
+Round 5/100 | Avg Client Train Loss: 0.2471 Avg Client Train Acc: 0.9105 | Global Val Loss: 0.4628 Global Val Acc: 0.8301 | Time: 121.9s
+
+--- Communication Round 6/100 ---
+Selected 5 clients for this round.
+Round 6/100 | Avg Client Train Loss: 0.2071 Avg Client Train Acc: 0.9257 | Global Val Loss: 0.3092 Global Val Acc: 0.8844 | Time: 132.4s
+
+--- Communication Round 7/100 ---
+Selected 5 clients for this round.
+Round 7/100 | Avg Client Train Loss: 0.1813 Avg Client Train Acc: 0.9341 | Global Val Loss: 0.3212 Global Val Acc: 0.8809 | Time: 130.7s
+
+--- Communication Round 8/100 ---
+Selected 5 clients for this round.
+Round 8/100 | Avg Client Train Loss: 0.1778 Avg Client Train Acc: 0.9369 | Global Val Loss: 0.2940 Global Val Acc: 0.8984 | Time: 130.9s
+
+--- Communication Round 9/100 ---
+Selected 5 clients for this round.
+Round 9/100 | Avg Client Train Loss: 0.1624 Avg Client Train Acc: 0.9428 | Global Val Loss: 0.2131 Global Val Acc: 0.9299 | Time: 129.4s
+
+--- Communication Round 10/100 ---
+Selected 5 clients for this round.
+Round 10/100 | Avg Client Train Loss: 0.1469 Avg Client Train Acc: 0.9481 | Global Val Loss: 0.1858 Global Val Acc: 0.9177 | Time: 122.3s
+
+--- Communication Round 11/100 ---
+Selected 5 clients for this round.
+Round 11/100 | Avg Client Train Loss: 0.1384 Avg Client Train Acc: 0.9513 | Global Val Loss: 0.2208 Global Val Acc: 0.9229 | Time: 122.1s
+
+--- Communication Round 12/100 ---
+Selected 5 clients for this round.
+Round 12/100 | Avg Client Train Loss: 0.1252 Avg Client Train Acc: 0.9568 | Global Val Loss: 0.1584 Global Val Acc: 0.9352 | Time: 125.9s
+
+--- Communication Round 13/100 ---
+Selected 5 clients for this round.
+Round 13/100 | Avg Client Train Loss: 0.1195 Avg Client Train Acc: 0.9587 | Global Val Loss: 0.1544 Global Val Acc: 0.9475 | Time: 124.7s
+
+--- Communication Round 14/100 ---
+Selected 5 clients for this round.
+Round 14/100 | Avg Client Train Loss: 0.0955 Avg Client Train Acc: 0.9671 | Global Val Loss: 0.1140 Global Val Acc: 0.9632 | Time: 120.7s
+
+--- Communication Round 15/100 ---
+Selected 5 clients for this round.
+Round 15/100 | Avg Client Train Loss: 0.1062 Avg Client Train Acc: 0.9651 | Global Val Loss: 0.1277 Global Val Acc: 0.9492 | Time: 124.1s
+
+--- Communication Round 16/100 ---
+Selected 5 clients for this round.
+Round 16/100 | Avg Client Train Loss: 0.1045 Avg Client Train Acc: 0.9629 | Global Val Loss: 0.0963 Global Val Acc: 0.9580 | Time: 127.4s
+
+--- Communication Round 17/100 ---
+Selected 5 clients for this round.
+Round 17/100 | Avg Client Train Loss: 0.0901 Avg Client Train Acc: 0.9696 | Global Val Loss: 0.1189 Global Val Acc: 0.9510 | Time: 125.1s
+
+--- Communication Round 18/100 ---
+Selected 5 clients for this round.
+Round 18/100 | Avg Client Train Loss: 0.0806 Avg Client Train Acc: 0.9739 | Global Val Loss: 0.1008 Global Val Acc: 0.9615 | Time: 127.3s
+
+--- Communication Round 19/100 ---
+Selected 5 clients for this round.
+Round 19/100 | Avg Client Train Loss: 0.0746 Avg Client Train Acc: 0.9754 | Global Val Loss: 0.0923 Global Val Acc: 0.9597 | Time: 129.4s
+
+--- Communication Round 20/100 ---
+Selected 5 clients for this round.
+Round 20/100 | Avg Client Train Loss: 0.0802 Avg Client Train Acc: 0.9730 | Global Val Loss: 0.1293 Global Val Acc: 0.9510 | Time: 133.5s
+
+--- Communication Round 21/100 ---
+Selected 5 clients for this round.
+Round 21/100 | Avg Client Train Loss: 0.0799 Avg Client Train Acc: 0.9742 | Global Val Loss: 0.0863 Global Val Acc: 0.9632 | Time: 132.8s
+
+--- Communication Round 22/100 ---
+Selected 5 clients for this round.
+Round 22/100 | Avg Client Train Loss: 0.0719 Avg Client Train Acc: 0.9756 | Global Val Loss: 0.0833 Global Val Acc: 0.9755 | Time: 124.0s
+
+--- Communication Round 23/100 ---
+Selected 5 clients for this round.
+Round 23/100 | Avg Client Train Loss: 0.0731 Avg Client Train Acc: 0.9762 | Global Val Loss: 0.1095 Global Val Acc: 0.9597 | Time: 143.8s
+
+--- Communication Round 24/100 ---
+Selected 5 clients for this round.
+Round 24/100 | Avg Client Train Loss: 0.0707 Avg Client Train Acc: 0.9755 | Global Val Loss: 0.0990 Global Val Acc: 0.9650 | Time: 154.9s
+
+--- Communication Round 25/100 ---
+Selected 5 clients for this round.
+Round 25/100 | Avg Client Train Loss: 0.0818 Avg Client Train Acc: 0.9746 | Global Val Loss: 0.0961 Global Val Acc: 0.9615 | Time: 125.8s
+
+--- Communication Round 26/100 ---
+Selected 5 clients for this round.
+Round 26/100 | Avg Client Train Loss: 0.0696 Avg Client Train Acc: 0.9774 | Global Val Loss: 0.1027 Global Val Acc: 0.9632 | Time: 123.3s
+
+--- Communication Round 27/100 ---
+Selected 5 clients for this round.
+Round 27/100 | Avg Client Train Loss: 0.0615 Avg Client Train Acc: 0.9790 | Global Val Loss: 0.0842 Global Val Acc: 0.9702 | Time: 124.5s
+
+--- Communication Round 28/100 ---
+Selected 5 clients for this round.
+Round 28/100 | Avg Client Train Loss: 0.0658 Avg Client Train Acc: 0.9786 | Global Val Loss: 0.0975 Global Val Acc: 0.9667 | Time: 122.2s
+
+--- Communication Round 29/100 ---
+Selected 5 clients for this round.
+Round 29/100 | Avg Client Train Loss: 0.0536 Avg Client Train Acc: 0.9819 | Global Val Loss: 0.0974 Global Val Acc: 0.9650 | Time: 122.0s
+
+--- Communication Round 30/100 ---
+Selected 5 clients for this round.
+Round 30/100 | Avg Client Train Loss: 0.0617 Avg Client Train Acc: 0.9798 | Global Val Loss: 0.0840 Global Val Acc: 0.9737 | Time: 129.9s
+
+--- Communication Round 31/100 ---
+Selected 5 clients for this round.
+Round 31/100 | Avg Client Train Loss: 0.0546 Avg Client Train Acc: 0.9821 | Global Val Loss: 0.0817 Global Val Acc: 0.9772 | Time: 123.9s
+
+--- Communication Round 32/100 ---
+Selected 5 clients for this round.
+Round 32/100 | Avg Client Train Loss: 0.0565 Avg Client Train Acc: 0.9822 | Global Val Loss: 0.0816 Global Val Acc: 0.9755 | Time: 176.2s
+
+--- Communication Round 33/100 ---
+Selected 5 clients for this round.
+Round 33/100 | Avg Client Train Loss: 0.0468 Avg Client Train Acc: 0.9845 | Global Val Loss: 0.0802 Global Val Acc: 0.9790 | Time: 175.5s
+
+--- Communication Round 34/100 ---
+Selected 5 clients for this round.
+Round 34/100 | Avg Client Train Loss: 0.0521 Avg Client Train Acc: 0.9842 | Global Val Loss: 0.0900 Global Val Acc: 0.9737 | Time: 177.2s
+
+--- Communication Round 35/100 ---
+Selected 5 clients for this round.
+Round 35/100 | Avg Client Train Loss: 0.0534 Avg Client Train Acc: 0.9830 | Global Val Loss: 0.0707 Global Val Acc: 0.9755 | Time: 177.2s
+
+--- Communication Round 36/100 ---
+Selected 5 clients for this round.
+Round 36/100 | Avg Client Train Loss: 0.0582 Avg Client Train Acc: 0.9810 | Global Val Loss: 0.0896 Global Val Acc: 0.9632 | Time: 177.6s
+
+--- Communication Round 37/100 ---
+Selected 5 clients for this round.
+Round 37/100 | Avg Client Train Loss: 0.0403 Avg Client Train Acc: 0.9869 | Global Val Loss: 0.0952 Global Val Acc: 0.9702 | Time: 187.4s
+
+--- Communication Round 38/100 ---
+Selected 5 clients for this round.
+Round 38/100 | Avg Client Train Loss: 0.0533 Avg Client Train Acc: 0.9825 | Global Val Loss: 0.0786 Global Val Acc: 0.9720 | Time: 187.8s
+
+--- Communication Round 39/100 ---
+Selected 5 clients for this round.
+Round 39/100 | Avg Client Train Loss: 0.0497 Avg Client Train Acc: 0.9842 | Global Val Loss: 0.1040 Global Val Acc: 0.9667 | Time: 190.9s
+
+--- Communication Round 40/100 ---
+Selected 5 clients for this round.
+Round 40/100 | Avg Client Train Loss: 0.0457 Avg Client Train Acc: 0.9857 | Global Val Loss: 0.0762 Global Val Acc: 0.9772 | Time: 163.5s
+
+--- Communication Round 41/100 ---
+Selected 5 clients for this round.
+Round 41/100 | Avg Client Train Loss: 0.0406 Avg Client Train Acc: 0.9867 | Global Val Loss: 0.0989 Global Val Acc: 0.9702 | Time: 165.4s
+
+--- Communication Round 42/100 ---
+Selected 5 clients for this round.
+Round 42/100 | Avg Client Train Loss: 0.0522 Avg Client Train Acc: 0.9837 | Global Val Loss: 0.0976 Global Val Acc: 0.9720 | Time: 159.9s
+
+--- Communication Round 43/100 ---
+Selected 5 clients for this round.
+Round 43/100 | Avg Client Train Loss: 0.0475 Avg Client Train Acc: 0.9841 | Global Val Loss: 0.0750 Global Val Acc: 0.9790 | Time: 169.9s
+
+--- Communication Round 44/100 ---
+Selected 5 clients for this round.
+Round 44/100 | Avg Client Train Loss: 0.0477 Avg Client Train Acc: 0.9849 | Global Val Loss: 0.0747 Global Val Acc: 0.9772 | Time: 168.1s
+
+--- Communication Round 45/100 ---
+Selected 5 clients for this round.
+Round 45/100 | Avg Client Train Loss: 0.0398 Avg Client Train Acc: 0.9879 | Global Val Loss: 0.0773 Global Val Acc: 0.9720 | Time: 160.1s
+
+--- Communication Round 46/100 ---
+Selected 5 clients for this round.
+Round 46/100 | Avg Client Train Loss: 0.0415 Avg Client Train Acc: 0.9856 | Global Val Loss: 0.0771 Global Val Acc: 0.9772 | Time: 162.2s
+
+--- Communication Round 47/100 ---
+Selected 5 clients for this round.
+Round 47/100 | Avg Client Train Loss: 0.0431 Avg Client Train Acc: 0.9861 | Global Val Loss: 0.0928 Global Val Acc: 0.9720 | Time: 158.7s
+
+--- Communication Round 48/100 ---
+Selected 5 clients for this round.
+Round 48/100 | Avg Client Train Loss: 0.0450 Avg Client Train Acc: 0.9855 | Global Val Loss: 0.0882 Global Val Acc: 0.9790 | Time: 161.9s
+
+--- Communication Round 49/100 ---
+Selected 5 clients for this round.
+Round 49/100 | Avg Client Train Loss: 0.0445 Avg Client Train Acc: 0.9851 | Global Val Loss: 0.0914 Global Val Acc: 0.9720 | Time: 159.0s
+
+--- Communication Round 50/100 ---
+Selected 5 clients for this round.
+Round 50/100 | Avg Client Train Loss: 0.0363 Avg Client Train Acc: 0.9876 | Global Val Loss: 0.1171 Global Val Acc: 0.9685 | Time: 162.2s
+
+--- Communication Round 51/100 ---
+Selected 5 clients for this round.
+Round 51/100 | Avg Client Train Loss: 0.0473 Avg Client Train Acc: 0.9846 | Global Val Loss: 0.0959 Global Val Acc: 0.9650 | Time: 160.9s
+
+--- Communication Round 52/100 ---
+Selected 5 clients for this round.
+Round 52/100 | Avg Client Train Loss: 0.0416 Avg Client Train Acc: 0.9876 | Global Val Loss: 0.0956 Global Val Acc: 0.9755 | Time: 168.1s
+
+--- Communication Round 53/100 ---
+Selected 5 clients for this round.
+Round 53/100 | Avg Client Train Loss: 0.0405 Avg Client Train Acc: 0.9870 | Global Val Loss: 0.0662 Global Val Acc: 0.9772 | Time: 161.3s
+
+--- Communication Round 54/100 ---
+Selected 5 clients for this round.
+Round 54/100 | Avg Client Train Loss: 0.0441 Avg Client Train Acc: 0.9859 | Global Val Loss: 0.0995 Global Val Acc: 0.9755 | Time: 158.6s
+
+--- Communication Round 55/100 ---
+Selected 5 clients for this round.
+Round 55/100 | Avg Client Train Loss: 0.0420 Avg Client Train Acc: 0.9866 | Global Val Loss: 0.0968 Global Val Acc: 0.9720 | Time: 168.7s
+
+--- Communication Round 56/100 ---
+Selected 5 clients for this round.
+Round 56/100 | Avg Client Train Loss: 0.0352 Avg Client Train Acc: 0.9886 | Global Val Loss: 0.0868 Global Val Acc: 0.9720 | Time: 160.4s
+
+--- Communication Round 57/100 ---
+Selected 5 clients for this round.
+Round 57/100 | Avg Client Train Loss: 0.0396 Avg Client Train Acc: 0.9870 | Global Val Loss: 0.0661 Global Val Acc: 0.9860 | Time: 162.5s
+
+--- Communication Round 58/100 ---
+Selected 5 clients for this round.
+Round 58/100 | Avg Client Train Loss: 0.0346 Avg Client Train Acc: 0.9887 | Global Val Loss: 0.0620 Global Val Acc: 0.9790 | Time: 162.4s
+
+--- Communication Round 59/100 ---
+Selected 5 clients for this round.
+Round 59/100 | Avg Client Train Loss: 0.0364 Avg Client Train Acc: 0.9887 | Global Val Loss: 0.0743 Global Val Acc: 0.9790 | Time: 169.3s
+
+--- Communication Round 60/100 ---
+Selected 5 clients for this round.
+Round 60/100 | Avg Client Train Loss: 0.0336 Avg Client Train Acc: 0.9886 | Global Val Loss: 0.0661 Global Val Acc: 0.9825 | Time: 160.6s
+
+--- Communication Round 61/100 ---
+Selected 5 clients for this round.
+Round 61/100 | Avg Client Train Loss: 0.0360 Avg Client Train Acc: 0.9889 | Global Val Loss: 0.0814 Global Val Acc: 0.9842 | Time: 161.9s
+
+--- Communication Round 62/100 ---
+Selected 5 clients for this round.
+Round 62/100 | Avg Client Train Loss: 0.0395 Avg Client Train Acc: 0.9879 | Global Val Loss: 0.1116 Global Val Acc: 0.9720 | Time: 164.9s
+
+--- Communication Round 63/100 ---
+Selected 5 clients for this round.
+Round 63/100 | Avg Client Train Loss: 0.0278 Avg Client Train Acc: 0.9909 | Global Val Loss: 0.0812 Global Val Acc: 0.9790 | Time: 163.4s
+
+--- Communication Round 64/100 ---
+Selected 5 clients for this round.
+Round 64/100 | Avg Client Train Loss: 0.0331 Avg Client Train Acc: 0.9890 | Global Val Loss: 0.0802 Global Val Acc: 0.9790 | Time: 154.1s
+
+--- Communication Round 65/100 ---
+Selected 5 clients for this round.
+Round 65/100 | Avg Client Train Loss: 0.0388 Avg Client Train Acc: 0.9877 | Global Val Loss: 0.0838 Global Val Acc: 0.9772 | Time: 158.9s
+
+--- Communication Round 66/100 ---
+Selected 5 clients for this round.
+Round 66/100 | Avg Client Train Loss: 0.0369 Avg Client Train Acc: 0.9891 | Global Val Loss: 0.0682 Global Val Acc: 0.9807 | Time: 164.9s
+
+--- Communication Round 67/100 ---
+Selected 5 clients for this round.
+Round 67/100 | Avg Client Train Loss: 0.0375 Avg Client Train Acc: 0.9880 | Global Val Loss: 0.0631 Global Val Acc: 0.9807 | Time: 165.7s
+
+--- Communication Round 68/100 ---
+Selected 5 clients for this round.
+Round 68/100 | Avg Client Train Loss: 0.0401 Avg Client Train Acc: 0.9868 | Global Val Loss: 0.0674 Global Val Acc: 0.9755 | Time: 164.3s
+
+--- Communication Round 69/100 ---
+Selected 5 clients for this round.
+Round 69/100 | Avg Client Train Loss: 0.0370 Avg Client Train Acc: 0.9881 | Global Val Loss: 0.0771 Global Val Acc: 0.9790 | Time: 163.8s
+
+--- Communication Round 70/100 ---
+Selected 5 clients for this round.
+Round 70/100 | Avg Client Train Loss: 0.0430 Avg Client Train Acc: 0.9859 | Global Val Loss: 0.0797 Global Val Acc: 0.9790 | Time: 161.0s
+
+--- Communication Round 71/100 ---
+Selected 5 clients for this round.
+Round 71/100 | Avg Client Train Loss: 0.0341 Avg Client Train Acc: 0.9888 | Global Val Loss: 0.0588 Global Val Acc: 0.9842 | Time: 160.9s
+
+--- Communication Round 72/100 ---
+Selected 5 clients for this round.
+Round 72/100 | Avg Client Train Loss: 0.0394 Avg Client Train Acc: 0.9877 | Global Val Loss: 0.0809 Global Val Acc: 0.9807 | Time: 158.2s
+
+--- Communication Round 73/100 ---
+Selected 5 clients for this round.
+Round 73/100 | Avg Client Train Loss: 0.0343 Avg Client Train Acc: 0.9897 | Global Val Loss: 0.0670 Global Val Acc: 0.9737 | Time: 162.0s
+
+--- Communication Round 74/100 ---
+Selected 5 clients for this round.
+Round 74/100 | Avg Client Train Loss: 0.0319 Avg Client Train Acc: 0.9902 | Global Val Loss: 0.0741 Global Val Acc: 0.9772 | Time: 159.8s
+
+--- Communication Round 75/100 ---
+Selected 5 clients for this round.
+Round 75/100 | Avg Client Train Loss: 0.0313 Avg Client Train Acc: 0.9905 | Global Val Loss: 0.0641 Global Val Acc: 0.9860 | Time: 163.3s
+
+--- Communication Round 76/100 ---
+Selected 5 clients for this round.
+Round 76/100 | Avg Client Train Loss: 0.0306 Avg Client Train Acc: 0.9901 | Global Val Loss: 0.0650 Global Val Acc: 0.9807 | Time: 155.9s
+
+--- Communication Round 77/100 ---
+Selected 5 clients for this round.
+Round 77/100 | Avg Client Train Loss: 0.0365 Avg Client Train Acc: 0.9882 | Global Val Loss: 0.0850 Global Val Acc: 0.9755 | Time: 160.0s
+
+--- Communication Round 78/100 ---
+Selected 5 clients for this round.
+Round 78/100 | Avg Client Train Loss: 0.0369 Avg Client Train Acc: 0.9886 | Global Val Loss: 0.0656 Global Val Acc: 0.9825 | Time: 161.2s
+
+--- Communication Round 79/100 ---
+Selected 5 clients for this round.
+Round 79/100 | Avg Client Train Loss: 0.0284 Avg Client Train Acc: 0.9914 | Global Val Loss: 0.0713 Global Val Acc: 0.9860 | Time: 165.6s
+
+--- Communication Round 80/100 ---
+Selected 5 clients for this round.
+Round 80/100 | Avg Client Train Loss: 0.0318 Avg Client Train Acc: 0.9901 | Global Val Loss: 0.0733 Global Val Acc: 0.9790 | Time: 163.6s
+
+--- Communication Round 81/100 ---
+Selected 5 clients for this round.
+Round 81/100 | Avg Client Train Loss: 0.0303 Avg Client Train Acc: 0.9907 | Global Val Loss: 0.0957 Global Val Acc: 0.9772 | Time: 158.0s
+
+--- Communication Round 82/100 ---
+Selected 5 clients for this round.
+Round 82/100 | Avg Client Train Loss: 0.0395 Avg Client Train Acc: 0.9870 | Global Val Loss: 0.0590 Global Val Acc: 0.9860 | Time: 157.1s
+
+--- Communication Round 83/100 ---
+Selected 5 clients for this round.
+Round 83/100 | Avg Client Train Loss: 0.0290 Avg Client Train Acc: 0.9908 | Global Val Loss: 0.0766 Global Val Acc: 0.9755 | Time: 166.5s
+
+--- Communication Round 84/100 ---
+Selected 5 clients for this round.
+Round 84/100 | Avg Client Train Loss: 0.0327 Avg Client Train Acc: 0.9898 | Global Val Loss: 0.0621 Global Val Acc: 0.9895 | Time: 161.8s
+
+--- Communication Round 85/100 ---
+Selected 5 clients for this round.
+Round 85/100 | Avg Client Train Loss: 0.0313 Avg Client Train Acc: 0.9906 | Global Val Loss: 0.0704 Global Val Acc: 0.9842 | Time: 163.1s
+
+--- Communication Round 86/100 ---
+Selected 5 clients for this round.
+Round 86/100 | Avg Client Train Loss: 0.0297 Avg Client Train Acc: 0.9902 | Global Val Loss: 0.0698 Global Val Acc: 0.9772 | Time: 162.2s
+
+--- Communication Round 87/100 ---
+Selected 5 clients for this round.
+Round 87/100 | Avg Client Train Loss: 0.0320 Avg Client Train Acc: 0.9900 | Global Val Loss: 0.0654 Global Val Acc: 0.9825 | Time: 156.3s
+
+--- Communication Round 88/100 ---
+Selected 5 clients for this round.
+Round 88/100 | Avg Client Train Loss: 0.0355 Avg Client Train Acc: 0.9897 | Global Val Loss: 0.0790 Global Val Acc: 0.9737 | Time: 160.5s
+
+--- Communication Round 89/100 ---
+Selected 5 clients for this round.
+Round 89/100 | Avg Client Train Loss: 0.0266 Avg Client Train Acc: 0.9919 | Global Val Loss: 0.0660 Global Val Acc: 0.9825 | Time: 165.8s
+
+--- Communication Round 90/100 ---
+Selected 5 clients for this round.
+Round 90/100 | Avg Client Train Loss: 0.0294 Avg Client Train Acc: 0.9917 | Global Val Loss: 0.0939 Global Val Acc: 0.9650 | Time: 165.1s
+
+--- Communication Round 91/100 ---
+Selected 5 clients for this round.
+Round 91/100 | Avg Client Train Loss: 0.0281 Avg Client Train Acc: 0.9910 | Global Val Loss: 0.0674 Global Val Acc: 0.9825 | Time: 156.8s
+
+--- Communication Round 92/100 ---
+Selected 5 clients for this round.
+Round 92/100 | Avg Client Train Loss: 0.0355 Avg Client Train Acc: 0.9893 | Global Val Loss: 0.0742 Global Val Acc: 0.9772 | Time: 159.2s
+
+--- Communication Round 93/100 ---
+Selected 5 clients for this round.
+Round 93/100 | Avg Client Train Loss: 0.0323 Avg Client Train Acc: 0.9898 | Global Val Loss: 0.0686 Global Val Acc: 0.9807 | Time: 166.1s
+
+--- Communication Round 94/100 ---
+Selected 5 clients for this round.
+Round 94/100 | Avg Client Train Loss: 0.0290 Avg Client Train Acc: 0.9912 | Global Val Loss: 0.0684 Global Val Acc: 0.9825 | Time: 161.1s
+
+--- Communication Round 95/100 ---
+Selected 5 clients for this round.
+Round 95/100 | Avg Client Train Loss: 0.0315 Avg Client Train Acc: 0.9900 | Global Val Loss: 0.0756 Global Val Acc: 0.9790 | Time: 156.7s
+
+--- Communication Round 96/100 ---
+Selected 5 clients for this round.
+Round 96/100 | Avg Client Train Loss: 0.0324 Avg Client Train Acc: 0.9903 | Global Val Loss: 0.0807 Global Val Acc: 0.9825 | Time: 161.7s
+
+--- Communication Round 97/100 ---
+Selected 5 clients for this round.
+Round 97/100 | Avg Client Train Loss: 0.0262 Avg Client Train Acc: 0.9919 | Global Val Loss: 0.0776 Global Val Acc: 0.9825 | Time: 162.1s
+
+--- Communication Round 98/100 ---
+Selected 5 clients for this round.
+Round 98/100 | Avg Client Train Loss: 0.0304 Avg Client Train Acc: 0.9911 | Global Val Loss: 0.0672 Global Val Acc: 0.9772 | Time: 172.1s
+
+--- Communication Round 99/100 ---
+Selected 5 clients for this round.
+Round 99/100 | Avg Client Train Loss: 0.0314 Avg Client Train Acc: 0.9903 | Global Val Loss: 0.0758 Global Val Acc: 0.9790 | Time: 160.1s
+
+--- Communication Round 100/100 ---
+Selected 5 clients for this round.
+Round 100/100 | Avg Client Train Loss: 0.0294 Avg Client Train Acc: 0.9902 | Global Val Loss: 0.0764 Global Val Acc: 0.9737 | Time: 162.9s
+
+------------------------------------------------------------
+Testing Federated Model: SimpleCNN
+------------------------------------------------------------
+Test Accuracy: 0.9298
+Classification report:
+               precision    recall  f1-score   support
+
+      glioma     0.9495    0.9400    0.9447       300
+  meningioma     0.9132    0.7908    0.8476       306
+     notumor     0.8973    0.9926    0.9426       405
+   pituitary     0.9734    0.9767    0.9750       300
+
+    accuracy                         0.9298      1311
+   macro avg     0.9334    0.9250    0.9275      1311
+weighted avg     0.9304    0.9298    0.9283      1311
+
+
+------------------------------------------------------------
+Testing Federated Model: VGGLike
+------------------------------------------------------------
+Test Accuracy: 0.9687
+Classification report:
+               precision    recall  f1-score   support
+
+      glioma     0.9767    0.9800    0.9784       300
+  meningioma     0.9527    0.9216    0.9369       306
+     notumor     0.9617    0.9926    0.9769       405
+   pituitary     0.9865    0.9733    0.9799       300
+
+    accuracy                         0.9687      1311
+   macro avg     0.9694    0.9669    0.9680      1311
+weighted avg     0.9687    0.9687    0.9686      1311
+
+
+------------------------------------------------------------
+Testing Federated Model: ResNetLike
+------------------------------------------------------------
+Test Accuracy: 0.9786
+Classification report:
+               precision    recall  f1-score   support
+
+      glioma     0.9832    0.9733    0.9782       300
+  meningioma     0.9638    0.9575    0.9607       306
+     notumor     0.9805    0.9926    0.9865       405
+   pituitary     0.9867    0.9867    0.9867       300
+
+    accuracy                         0.9786      1311
+   macro avg     0.9785    0.9775    0.9780      1311
+weighted avg     0.9786    0.9786    0.9786      1311
+
+
+------------------------------------------------------------
+Testing Federated Model: SimpleDenseNetLike
+------------------------------------------------------------
+Test Accuracy: 0.9641
+Classification report:
+               precision    recall  f1-score   support
+
+      glioma     0.9760    0.9500    0.9628       300
+  meningioma     0.9279    0.9248    0.9264       306
+     notumor     0.9731    0.9827    0.9779       405
+   pituitary     0.9770    0.9933    0.9851       300
+
+    accuracy                         0.9641      1311
+   macro avg     0.9635    0.9627    0.9630      1311
+weighted avg     0.9641    0.9641    0.9641      1311
+
+
+------------------------------------------------------------
+Testing Federated Model: MobileNetLite
+------------------------------------------------------------
+Test Accuracy: 0.9916
+Classification report:
+               precision    recall  f1-score   support
+
+      glioma     0.9867    0.9867    0.9867       300
+  meningioma     0.9838    0.9902    0.9870       306
+     notumor     0.9951    0.9951    0.9951       405
+   pituitary     1.0000    0.9933    0.9967       300
+
+    accuracy                         0.9916      1311
+   macro avg     0.9914    0.9913    0.9913      1311
+weighted avg     0.9916    0.9916    0.9916      1311
+
+
+Best federated model on test set: MobileNetLite (accuracy=0.9916)
+All done. Federated results saved to: ./results_brain_tumor_federated

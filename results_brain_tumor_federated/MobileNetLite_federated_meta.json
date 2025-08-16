@@ -1,0 +1,6 @@
+{
+  "model_name": "MobileNetLite",
+  "best_global_val_acc": 0.989492119089317,
+  "communication_rounds": 100,
+  "num_clients": 10
+}

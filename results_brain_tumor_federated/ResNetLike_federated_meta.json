@@ -1,0 +1,6 @@
+{
+  "model_name": "ResNetLike",
+  "best_global_val_acc": 0.978984238178634,
+  "communication_rounds": 100,
+  "num_clients": 10
+}

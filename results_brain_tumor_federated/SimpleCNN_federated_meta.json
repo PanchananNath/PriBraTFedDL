@@ -1,0 +1,6 @@
+{
+  "model_name": "SimpleCNN",
+  "best_global_val_acc": 0.9492119089316988,
+  "communication_rounds": 100,
+  "num_clients": 10
+}

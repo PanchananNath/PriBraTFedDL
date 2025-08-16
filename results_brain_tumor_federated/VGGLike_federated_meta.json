@@ -1,0 +1,6 @@
+{
+  "model_name": "VGGLike",
+  "best_global_val_acc": 0.9772329246935202,
+  "communication_rounds": 100,
+  "num_clients": 10
+}
