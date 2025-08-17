@@ -124,8 +124,7 @@ pip install torch torchvision numpy matplotlib seaborn scikit-learn tqdm
 
 ## 🧑‍💻 Author
 
-Developed by **Er. Panchanan Nath**  
-For research and academic use in **Federated Learning and Medical Imaging**.
+
 
 ---
 
