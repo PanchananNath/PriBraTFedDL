@@ -120,11 +120,6 @@ Install dependencies:
 pip install torch torchvision numpy matplotlib seaborn scikit-learn tqdm
 ```
 
----
-
-## 🧑‍💻 Author
-
-
 
 ---
 
