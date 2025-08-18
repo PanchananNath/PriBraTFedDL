@@ -1,4 +1,4 @@
-# Federated Learning Brain Tumor 
+# Federated Deep Learning framework for Brain Tumor 
 The codebase consist of **five custom deep learning models** and trains them in a **federated manner** across multiple clients.
 
 `brain_tumor_federated_learning.py` is a Python implementation developed by **Er. Panchanan Nath** for simulating **Federated Learning (FL)** on a **Brain Tumor Classification Dataset**.  
