@@ -126,7 +126,6 @@ pip install torch torchvision numpy matplotlib seaborn scikit-learn tqdm
 
 ## 📜 License
 
-This project is released under the **MIT License**.  
-Feel free to use and modify for research purposes with attribution.
+This experiment is released under the **MIT License**. Feel free to use and modify for research purposes with attribution.
 
 ---
