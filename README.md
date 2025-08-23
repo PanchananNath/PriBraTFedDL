@@ -54,7 +54,7 @@ DATA_DIR/
 
 ---
 
-## ⚙️ Hyperparameters
+## ⚙️ Model training details
 
 | Parameter                | Value (default) |
 |---------------------------|-----------------|
