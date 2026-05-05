@@ -1,4 +1,4 @@
-# Federated deep bearning framework for brain tumor detection
+# Federated deep learning framework for brain tumor detection
 
 The codebase consist of **five custom deep learning models** and trains them in a **federated manner** across multiple clients.
 
