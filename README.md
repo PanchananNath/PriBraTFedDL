@@ -8,7 +8,7 @@ The codebase consist of **five custom deep learning models** and trains them in 
 
 ---
 
-## ✨ Features
+##  Features
 
 - Implements **5 custom CNN architectures**:
   - `SimpleCNN`
@@ -29,7 +29,7 @@ The codebase consist of **five custom deep learning models** and trains them in 
 
 ---
 
-## 📂 Dataset Structure
+##  Dataset Structure
 
 Ensure your dataset is structured as follows:
 
@@ -54,7 +54,7 @@ DATA_DIR/
 
 ---
 
-## ⚙️ Model training details
+##  Model training details
 
 | Parameter                | Value (default) |
 |---------------------------|-----------------|
@@ -70,7 +70,7 @@ DATA_DIR/
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 1. Clone this repository and place your dataset under the required structure.
 2. Update the `DATA_DIR` in the script to point to your dataset root.
@@ -84,7 +84,7 @@ DATA_DIR/
 
 ---
 
-## 📊 Outputs
+##  Outputs
 
 All results are stored in `./results_brain_tumor_federated/` including:
 
@@ -97,7 +97,7 @@ All results are stored in `./results_brain_tumor_federated/` including:
 
 ---
 
-## 📈 Example Results
+## Example Results
 
 - Training & validation loss/accuracy curves per communication round
 - Confusion matrices (raw & normalized)
@@ -106,7 +106,7 @@ All results are stored in `./results_brain_tumor_federated/` including:
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 - Python 3.8+
 - PyTorch
@@ -123,7 +123,7 @@ pip install torch torchvision numpy matplotlib seaborn scikit-learn tqdm
 ```
 ---
 
-## 📜 License
+##  License
 
 This experiment is released under the **MIT License**. Feel free to use and modify for research purposes with attribution.
 
