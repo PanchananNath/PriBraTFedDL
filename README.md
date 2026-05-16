@@ -128,7 +128,7 @@ pip install torch torchvision numpy matplotlib seaborn scikit-learn tqdm
 
 This experiment is released under the **MIT License**. Feel free to use and modify for research purposes with attribution.
 
-## Contribution 
+## Note 
 
 The repository is contaning the experiments perfomred for the research work *PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework*
 
